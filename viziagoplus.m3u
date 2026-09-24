@@ -6629,29 +6629,137 @@ https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjo
 #EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", bein Sports 5 Turkey-TR
 https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3OTAyMTQ2MzQ2NDJ9
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/beinsports1.png" group-title="7/24 Kanallar", BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/patron/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/beinsports2.png" group-title="7/24 Kanallar", BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/beinsports3.png" group-title="7/24 Kanallar", BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="7/24 Kanallar", BEIN SPORTS 3
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b3/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/ssport1.png" group-title="7/24 Kanallar", S SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="7/24 Kanallar", BEIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/b4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", BEIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/b5/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", BEIN SPORTS MAX 1
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/bm1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", BEIN SPORTS MAX 2
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/bm2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S SPORT
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ss/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/exxen.png" group-title="7/24 Kanallar", EXXEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S SPORT 2
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ss2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", SMART SPOR
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/smarts/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", SMART SPOR 2
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/smarts2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TİVİBU SPOR 1
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/t1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TİVİBU SPOR 2
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/t2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TİVİBU SPOR 3
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/t3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TİVİBU SPOR 4
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/t4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="7/24 Kanallar", TRT SPOR
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/trtspor/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="7/24 Kanallar", TRT SPOR YILDIZ
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/trtyildiz/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="7/24 Kanallar", TRT 1
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/trt1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="7/24 Kanallar", A SPOR
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/as/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="7/24 Kanallar", ATV (Alternatif 4)
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/atv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TV 8
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/tv8/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TV 8,5
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/tv85/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 6
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex6/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", SKY SPORTS F1
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/skyf1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", EURO SPORT 1
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/eu1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", EURO SPORT 2
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/eu2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex7/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/trtspornew.png" group-title="7/24 Kanallar", TRT SPOR
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 2
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/trtspor/mono.m3u8
+https://patronsports2.cfd/ex2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 3
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 4
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", TABİİ SPOR 5
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex5/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="7/24 Kanallar", EXXEN
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/ex1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/de1ad749f413b5dd69e0a3dc282767e5.png" group-title="Canlı Maçlar - RHL", HC Energetik - HC Partizan [07:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
@@ -6661,37 +6769,17 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20424673
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/997679f8d4cb833ec41246f3e11f7765.png" group-title="Canlı Maçlar - ATP. Hangzhou", Jaime Faria - Terence Atmane [08:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20424533
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/06f0287673fce189fa84d958fd19679c.png" group-title="Canlı Maçlar - WTA. Seoul. Doubles", Zarazua/Martins - Hozumi/Chong [09:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20424993
-
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/96a8a665961ef3d800dc35cddce3a532.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Zuzanna Pawlikowska - Ksenia Smirnova [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425040
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/192183.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Yuliya Hatouka - Ksenia Efremova [09:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425033
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/ff285f63f75412955781de373d62b232.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Elena Jamshidi - Esther Adeshina [09:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425035
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/a1847f1061bddb0887300ba44423e52a.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Ekaterina Perelygina - Ulyana Hrabavets [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425028
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/bffe8910415da1e48da2eb80b0aa841b.png" group-title="Canlı Maçlar - World Tennis. Plovdiv. Wo...", Ane Mintegi Del Olmo - Beatrise Zeltina [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/59177.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Yurii Dzhavakian - Chirag Duhan [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425250
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/b3a1ff0f16c71c01772e41e4f94a2ed0.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Pietro Orlando Fellin - Karim Ibrahim [10:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425260
+20425278
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/1f3420731ebd2694a6fb97df2a22c119.png" group-title="Canlı Maçlar - World Tennis. Plovdiv. Wo...", Dunja Maric - Alessandra Mazzola [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
@@ -6701,6 +6789,14 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425267
 
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/bffe8910415da1e48da2eb80b0aa841b.png" group-title="Canlı Maçlar - World Tennis. Plovdiv. Wo...", Ane Mintegi Del Olmo - Beatrise Zeltina [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425250
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/b3a1ff0f16c71c01772e41e4f94a2ed0.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Pietro Orlando Fellin - Karim Ibrahim [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425260
+
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4e9e85c5c374598b454ae2bda961f178.png" group-title="Canlı Maçlar - Russian Championship. Nat...", SPbPU Saint Petersburg - DGTU Makhachkala [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425184
@@ -6709,25 +6805,21 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425139
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png" group-title="Canlı Maçlar - ATP. Chengdu", Tallon Griekspoor - Denis Shapovalov [10:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425162
-
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/ef53b3e94dc47376a1cd137926ae6829.png" group-title="Canlı Maçlar - Philippines. NCAA", Lyceum of the Philippines University - San Beda Red Lions [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425430
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/59177.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Yurii Dzhavakian - Chirag Duhan [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png" group-title="Canlı Maçlar - ATP. Chengdu", Tallon Griekspoor - Denis Shapovalov [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425278
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5e057f73b2ad83ce88ee63aadc219064.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Samir Hamza Reguig - Romain Faucon [10:05]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425261
+20425162
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/8ef87057105bc6ab95655c339d68de93.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Luca Castagnola - Fares Zakaria [10:05]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425338
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5e057f73b2ad83ce88ee63aadc219064.png" group-title="Canlı Maçlar - World Tennis. Sharm El Sh...", Samir Hamza Reguig - Romain Faucon [10:05]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425261
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/f8cc26b14caf1391c53e1e62f4bd1ea7.png" group-title="Canlı Maçlar - ATP. Chengdu", James Duckworth - Lorenzo Sonego [10:15]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
@@ -6737,13 +6829,21 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425384
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/43ea9b10038a8665d2c3560627b265b1.png" group-title="Canlı Maçlar - Club Friendlies", Goyang Sono Skygunners - Seoul SK Knights [10:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0532020a80a7ec5830a2377aaad73eac.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Vittoria Paganetti - Romane Longueville [10:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425520
+20425510
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0020da9e2af7171bb12247119c9594b4.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Joelle Lilly Sophie Steur - Marie Mettraux [10:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/64f825fc0cffef032cf01f63e8901d05.png" group-title="Canlı Maçlar - ATP. Hangzhou", Rinky Hijikata - Dalibor Svrcina [10:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425492
+20425316
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/096df404e13c102d24b2dfa3fa86af6c.png" group-title="Canlı Maçlar - WTA. Seoul", Jelena Ostapenko - Taylah Preston [10:30]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425502
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/6558.png" group-title="Canlı Maçlar - FIBA Intercontinental Cup", Rytas Vilnius - Shanghai Dongfang Sharks [10:30]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425413
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/09d5018f231da2c851008564453e6275.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Daria Yesypchuk - Alisa Oktiabreva [10:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
@@ -6753,37 +6853,65 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425486
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/096df404e13c102d24b2dfa3fa86af6c.png" group-title="Canlı Maçlar - WTA. Seoul", Jelena Ostapenko - Taylah Preston [10:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0020da9e2af7171bb12247119c9594b4.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Joelle Lilly Sophie Steur - Marie Mettraux [10:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425502
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/64f825fc0cffef032cf01f63e8901d05.png" group-title="Canlı Maçlar - ATP. Hangzhou", Rinky Hijikata - Dalibor Svrcina [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425316
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/6558.png" group-title="Canlı Maçlar - FIBA Intercontinental Cup", Rytas Vilnius - Shanghai Dongfang Sharks [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425413
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0532020a80a7ec5830a2377aaad73eac.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Vittoria Paganetti - Romane Longueville [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425510
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5bfeddb2ed98281bfe35c2069de3deed.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Denise Valente - Anna Petkovic [10:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425450
+20425492
 
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/aae311e0645a3b2d31adf584a64fd392.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Eric Vanshelboim - Gianmarco Ferrari [10:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425490
 
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5bfeddb2ed98281bfe35c2069de3deed.png" group-title="Canlı Maçlar - World Tennis. Santa Margh...", Denise Valente - Anna Petkovic [10:35]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425450
+
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/e800d64b0eea56f03ccb027c8f5f7571.png" group-title="Canlı Maçlar - India. Bangalore. Super D...", South United Bangalore - ASK [11:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425725
 
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/d8bd6caa4f3dd99ca2f7223c546645bc.png" group-title="Canlı Maçlar - World Tennis. Pardubice", Sebastian Dominko - Marko Bekeni [11:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425801
+
 #EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/927332863c76f819fa6d4539c31befaa.png" group-title="Canlı Maçlar - WTA. Singapore", Xinyu Wang - Joanna Garland [11:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
 20425562
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/a2879381dab233c9ac1ba01fff877d39.png" group-title="Canlı Maçlar - Club Friendlies. Women", Shih Hsin University (Bayanlar) - Chinese Culture University (Bayanlar) [11:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425781
+
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/22379.png" group-title="Canlı Maçlar - World Tennis. Pardubice", Dominik Recek - Jakub Kusy [11:15]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+20425833
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="TV Kanalları", BEIN SPORTS 1 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="TV Kanalları", BEIN SPORTS 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//bein2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="TV Kanalları", BEIN SPORTS 3 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="TV Kanalları", BEIN SPORTS 4 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="TV Kanalları", S SPORT (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="TV Kanalları", S SPORT 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="TV Kanalları", TRT SPOR (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 A
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
@@ -6793,17 +6921,65 @@ https://hz8.d72577a9dd0ec62.cfd/zirve/mono.m3u8
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/patron/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 C
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/taraftarium/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 2
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/b2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 3
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 4
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", beIN Sports 5
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b5/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 Max
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/bm1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 2 Max
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/bm2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S Sports 1
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/ss1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S Sports 2
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ss2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Smart Sports
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/smarts/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Smart Sports 2
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/sms2/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 1
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/t1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 2
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 3
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 4
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t4/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="7/24 Kanallar", A Spor (Alternatif 2)
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
@@ -6813,51 +6989,227 @@ https://hz8.d72577a9dd0ec62.cfd/as/mono.m3u8
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="7/24 Kanallar", Exxen 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="7/24 Kanallar", TRT Spor Yıldız (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="7/24 Kanallar", TRT 1 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/trt1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="7/24 Kanallar", ATV (Alternatif 5)
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/atv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="7/24 Kanallar", TV8.5 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/tv85/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", NBA TV
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/nbatv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Euro Sport 1
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/eu1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Euro Sport 2
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/eu2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 1
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", M.Andreeva - A.Sasnovich
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 2
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 3
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 4
+#EXTVLCOPT:http-referrer=https://inattv1303.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", 13:30 | M.Andreeva - A.Sasnovich
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/bm1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", İstanbul Gençlik - Giresunspor
+#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", 15:00 | İstanbul Gençlik - Giresunspor
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", Belçika - Slovenya
+#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", 17:00 | Belçika - Slovenya
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", Barcelona - Paris FC
+#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", 22:00 | Barcelona - Paris FC
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", İtalya - Finlandiya
+#EXTINF:-1 tvg-logo="" group-title="Canlı Maçlar", 22:05 | İtalya - Finlandiya
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 A (GH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 A (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/zirve/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 2 (GH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 B (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/taraftarium/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 C (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/patron/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 2 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/b2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S Sports 1 (GH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 3 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 4 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", beIN Sports 5 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b5/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 1 Max (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/bm1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="7/24 Kanallar", beIN Sports 2 Max (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/bm2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S Sports 1 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/ss1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 1 (GH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="7/24 Kanallar", S Sports 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ss2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Smart Sports (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/smarts/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Smart Sports 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/sms2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 1 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/t1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="7/24 Kanallar", A Spor (GH)
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 3 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tivibu Sports 4 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/t4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="7/24 Kanallar", A Spor (Alternatif 3)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/as/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 1 (GH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="7/24 Kanallar", TRT Spor (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="7/24 Kanallar", TRT Spor Yıldız (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="7/24 Kanallar", TRT 1 (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/trt1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="7/24 Kanallar", ATV (Alternatif 6)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/atv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="7/24 Kanallar", TV8.5 (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/tv85/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", NBA TV (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/nbatv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Euro Sport 1 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/eu1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Euro Sport 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/eu2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 1 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/ex1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 2 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 3 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 4 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 5
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex5/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 6
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex6/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 7
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex7/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="7/24 Kanallar", Tâbii 8
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex8/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor Kanalları", BEIN SPORTS 1 (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor Kanalları", BEIN SPORTS 2 (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor Kanalları", BEIN SPORTS 3 (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S SPORT (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", TİVİBU SPOR
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", EXXEN (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://taraftarium24.xyz/
+https://andro.okan11gote12sokan.cfd/checklist/androstreamliveexn.m3u8
 
