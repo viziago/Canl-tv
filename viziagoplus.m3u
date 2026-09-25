@@ -4529,10 +4529,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/c40e203f317f6d5709c493f714ac8d6
 #EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png" group-title="Sinema & Dizi", 50. Teleon
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Diğer Kanallar", TR:Trt 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar", TR:Trt 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Diğer Kanallar", TR:Trt 1 HD (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar", TR:Trt 1 HD (Alternatif 1)
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="Diğer Kanallar", TR:Trt 2  HD
@@ -4541,22 +4541,22 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="Diğer Kanallar", TR:Trt 2  HD (Alternatif 1)
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Diğer Kanallar", TR:Atv HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", TR:Atv HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Diğer Kanallar", TR:Atv HD (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", TR:Atv HD (Alternatif 1)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Diğer Kanallar", TR:Kanal D HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar", TR:Kanal D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Diğer Kanallar", TR:Kanal D HD (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar", TR:Kanal D HD (Alternatif 1)
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Diğer Kanallar", TR:Show TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar", TR:Show TV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Diğer Kanallar", TR:Show TV HD (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar", TR:Show TV HD (Alternatif 1)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Diğer Kanallar", TR:Star  HD
@@ -4586,7 +4586,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/36157058-80ce-4724-a7ff-28bbad7df301.png" group-title="Diğer Kanallar", TR:360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Diğer Kanallar", TR:Tlc HD
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar", TR:Tlc HD
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Diğer Kanallar", TR:Dmax  HD
@@ -4856,34 +4856,34 @@ http://104.238.23.221/dsgo.php?id=245946
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları", TRT Spor Yıldız
 http://104.238.23.221/dsgo.php?id=246177
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Diğer Kanallar", TV8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar", TV8
 http://104.238.23.221/dsgo.php?id=246132
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_Rwe.png" group-title="Diğer Kanallar", TRT1 FHD 337667
 https://tv.cdn-vizi.workers.dev/?ID=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Diğer Kanallar", ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Diğer Kanallar", Show TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar", Show TV (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=3
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_tv_dGf.png" group-title="Diğer Kanallar", Fox TV
 https://tv.cdn-vizi.workers.dev/?ID=4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Diğer Kanallar", Star TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar", Star TV
 https://tv.cdn-vizi.workers.dev/?ID=5
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/euro_d_QNy.png" group-title="Diğer Kanallar", Euro D
 https://tv.cdn-vizi.workers.dev/?ID=6
 
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_PSS.png" group-title="Diğer Kanallar", Kanal 7
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_PSS.png" group-title="Ulusal Kanallar", Kanal 7
 https://tv.cdn-vizi.workers.dev/?ID=7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Diğer Kanallar", TV8 (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar", TV8 (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=8
 
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/beyaz_tv_j7S.png" group-title="Diğer Kanallar", Beyaz TV
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/beyaz_tv_j7S.png" group-title="Ulusal Kanallar", Beyaz TV
 https://tv.cdn-vizi.workers.dev/?ID=9
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png" group-title="Diğer Kanallar", ViziTürk Komedi
@@ -4940,7 +4940,7 @@ https://tv.cdn-vizi.workers.dev/?ID=26
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/teve2_cNO.png" group-title="Diğer Kanallar", TV2
 https://tv.cdn-vizi.workers.dev/?ID=27
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Diğer Kanallar", TV8.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar", TV8.5
 https://tv.cdn-vizi.workers.dev/?ID=28
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/360_BNa.png" group-title="Diğer Kanallar", 360 TV
@@ -4952,7 +4952,7 @@ https://tv.cdn-vizi.workers.dev/?ID=30
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_belgesel_6fG.png" group-title="Diğer Kanallar", TRT Belgesel
 https://tv.cdn-vizi.workers.dev/?ID=31
 
-#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tlc_y3J.png" group-title="Diğer Kanallar", TLC Turkiye
+#EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tlc_y3J.png" group-title="Ulusal Kanallar", TLC Turkiye
 https://tv.cdn-vizi.workers.dev/?ID=32
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dmax_Mi8.png" group-title="Diğer Kanallar", DMax
@@ -5162,10 +5162,10 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 2)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 3)
 http://116.202.238.88/ATV_TR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV Alanya (720p) [Not 24/7]
@@ -5834,25 +5834,25 @@ https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar", Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Diğer Kanallar", TR:Trt 1 HD (Alternatif 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar", TR:Trt 1 HD (Alternatif 2)
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="Diğer Kanallar", TR:Trt 2  HD (Alternatif 2)
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Diğer Kanallar", TR:Atv HD (Alternatif 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", TR:Atv HD (Alternatif 2)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Diğer Kanallar", TR:Kanal D HD (Alternatif 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar", TR:Kanal D HD (Alternatif 2)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Diğer Kanallar", TR:Kanal D FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar", TR:Kanal D FHD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Diğer Kanallar", TR:Show TV HD (Alternatif 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar", TR:Show TV HD (Alternatif 2)
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Diğer Kanallar", TR:Show TV HD (Alternatif 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar", TR:Show TV HD (Alternatif 3)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Diğer Kanallar", TR:Star  HD (Alternatif 2)
@@ -5876,7 +5876,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="Diğer Kanallar", TR:Teve 2 HD (Alternatif 1)
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Diğer Kanallar", TR:Tlc HD (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar", TR:Tlc HD (Alternatif 1)
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Diğer Kanallar", TR:Dmax  HD (Alternatif 1)
@@ -6530,91 +6530,91 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Diğer Kanallar", 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs1 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs1 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs1 -B-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs1 -B-
 https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs1 -C- (TR)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs1 -C- (TR)
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs1 -D-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs1 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs2 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs2 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs2 -B-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs2 -B-
 https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs2 -C- (TR)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs2 -C- (TR)
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs2 -D-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs2 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs3 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs3 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs3 -B-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs3 -B-
 https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs3 -C- (TR)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs3 -C- (TR)
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs3 -D-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs3 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs4 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs4 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs4 -B-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs4 -B-
 https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs4 -C- (TR)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs4 -C- (TR)
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs4 -D-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs4 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs5 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs5 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs5 -B-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs5 -B-
 https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs5 -C- (TR)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs5 -C- (TR)
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Bs5 -D-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Bs5 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Pfl_mma
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Pfl_mma
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor Kanalları", Trace_sports
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Trace_sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor Kanalları", Dd_sports
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Dd_sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Fifa+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Billiards
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Billiards
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Ace_tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Ace_tv
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Hoop_tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Hoop_tv
 https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Homerun_tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Homerun_tv
 https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Diğer Kanallar", Dazn_Combat
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Belgesel", Dazn_Combat
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor Kanalları", beIN SPORTS 1 Turkey-TR
@@ -6700,7 +6700,7 @@ https://patronsports2.cfd/trtspor/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/trtyildiz/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Diğer Kanallar", TRT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar", TRT 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/trt1/mono.m3u8
 
@@ -6708,7 +6708,7 @@ https://patronsports2.cfd/trt1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/as/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Diğer Kanallar", ATV (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar", ATV (Alternatif 4)
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/atv/mono.m3u8
 
@@ -6760,7 +6760,7 @@ https://patronsports2.cfd/ex4/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex5/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", EXXEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", EXXEN
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex1/mono.m3u8
 
@@ -6820,41 +6820,17 @@ https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20435142
 
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/58355.png" group-title="Canlı Maçlar", Chan-Yeong Oh - Mukund Sasikumar [08:00]
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/c2495c55db15108dfe433cdb2090dad8.png" group-title="Canlı Maçlar", Binda/Pankin - Barsukov/Ehrenschneider [09:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435046
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4394892e739c971d869be8c84cdf80b3.png" group-title="Canlı Maçlar", Thrizino-Buragaon - Rhebla Gangsum [08:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435283
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0c6ec106a92b6c1775fd48e88ab45a01.png" group-title="Canlı Maçlar", Bangalore City - Kodagu [08:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435272
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/954183.png" group-title="Canlı Maçlar", Kyrian Jacquet - Tomas Martin Etcheverry [08:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435208
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/36137.png" group-title="Canlı Maçlar", Naoki Nakagawa - Corban Crowther [08:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435369
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0f30ca51f3e5272dbc1242fc3d986055.png" group-title="Canlı Maçlar", Cash/Erler - Frantzen/Haase [08:55]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435442
-
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/21595.png" group-title="Canlı Maçlar", Kuzey Kore (Bayanlar) - Tayvan (Bayanlar) [09:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435480
+20435578
 
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/21357.png" group-title="Canlı Maçlar", Çin (Bayanlar) - Vietnam (Bayanlar) [09:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20435503
 
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/c2495c55db15108dfe433cdb2090dad8.png" group-title="Canlı Maçlar", Binda/Pankin - Barsukov/Ehrenschneider [09:00]
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/21595.png" group-title="Canlı Maçlar", Kuzey Kore (Bayanlar) - Tayvan (Bayanlar) [09:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435578
+20435480
 
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/7bdc8cffa9fe48ceb39fa47534a955f8.png" group-title="Canlı Maçlar", Kachmazov/Palan - Beamish/Shearer [09:05]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
@@ -6864,17 +6840,17 @@ https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20435741
 
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/92533aab353c6ca07f02dd1d8c5938a6.png" group-title="Canlı Maçlar", Alejandro Tabilo - Adrian Mannarino [09:35]
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/96a8a665961ef3d800dc35cddce3a532.png" group-title="Canlı Maçlar", Zuzanna Pawlikowska - Esther Adeshina [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435757
+20435831
 
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/192183.png" group-title="Canlı Maçlar", Yuliya Hatouka - Mara Guth [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20435810
 
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/96a8a665961ef3d800dc35cddce3a532.png" group-title="Canlı Maçlar", Zuzanna Pawlikowska - Esther Adeshina [09:35]
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/92533aab353c6ca07f02dd1d8c5938a6.png" group-title="Canlı Maçlar", Alejandro Tabilo - Adrian Mannarino [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
-20435831
+20435757
 
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/405b27da997b23b2f91a317d96557f88.png" group-title="Canlı Maçlar", Ulyana Hrabavets - Maria Golovina [09:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
@@ -6888,6 +6864,10 @@ https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20435960
 
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/2706ce8bc89f848ebf3f704b50c0803d.png" group-title="Canlı Maçlar", Charlotte Pikkaart - Natalia Siedliska [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436164
+
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4e9e85c5c374598b454ae2bda961f178.png" group-title="Canlı Maçlar", SPbPU Saint Petersburg - MSPU Moscow [10:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20436041
@@ -6896,599 +6876,643 @@ https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20436055
 
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/25807907ee9a08c653d7bfaa606a7129.png" group-title="Canlı Maçlar", Arellano Chiefs Üniversitesi - Perpetual Altas Üniversitesi [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436074
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/e91593661f70b304a33fc78225f6de89.png" group-title="Canlı Maçlar", Moscow Oblast (Bayanlar) - Novosibirsk Oblast (Bayanlar) [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436195
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5712beeda3037143f11b0bc2fcf7a6c9.png" group-title="Canlı Maçlar", Karan Singh - Romain Faucon [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436069
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/7a85b4d530c91c192cf77a46b24ea83d.png" group-title="Canlı Maçlar", Qingdao Hainiu U20 - Ningbo Professional U20 [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436057
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/528360687659551a10041a7bdc3671be.png" group-title="Canlı Maçlar", Yunnan Yukun U20 - Liaoning Tieren U20 [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436062
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/13233.png" group-title="Canlı Maçlar", Çin (Bayanlar) - Güney Kore (Bayanlar) [10:00]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436058
+
 #EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/b3a1ff0f16c71c01772e41e4f94a2ed0.png" group-title="Canlı Maçlar", Pietro Orlando Fellin - Paul Jubb [10:05]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 20436042
 
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/d56fc142f304928f1e105fed5c14d1f2.png" group-title="Canlı Maçlar", Robert Strombachs - Fares Zakaria [10:05]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436080
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/cebacd125376d30917469c2855b663e1.png" group-title="Canlı Maçlar", Branko Djuric - Chirag Duhan [10:05]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436108
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0c29f34743d4d2131a6fa0af67e28ec3.png" group-title="Canlı Maçlar", Lu/Hu - Wang/Zhou [10:15]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436232
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/46ccf96c90a3fdbd2422f1208d7d7a4a.png" group-title="Canlı Maçlar", Masaki Ishikawa - Takumi Katsuda [10:15]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436217
+
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/2d0da7ce61e4022a47cb209bbc89b1ef.png" group-title="Canlı Maçlar", Fabian Marozsan - Taro Daniel [10:30]
+#EXTVLCOPT:http-referrer=https://www.atomsportv515.top
+20436228
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebiraz1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebs1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebs2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebs3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebs4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebs5.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebsm1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivebsm2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivess1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivess2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivets.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivets.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivets1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivets2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivets2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivets3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivets3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivets4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivesm1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivesm2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivesm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivees1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivees2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb5.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 6 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb6.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 7 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb7.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 8 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb8.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 1 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 2 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 3 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 4 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 5 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 6 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 6 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 7 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 7 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 8 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 8 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu115.click/checklist/androstreamliveexn8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivets.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 6 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 7 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 8 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 3 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 4 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 5 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 6 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 6 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 7 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 7 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 8 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 8 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 4)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 5)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivesm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 6 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 7 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 8 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 3 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 4 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 5 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 6 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 6 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 7 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 7 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 8 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 8 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 6)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebiraz1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 1 HD (Alternatif 7)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebs1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebs2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebs3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebs4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebs5.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebsm1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", beIN Sport Max 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivebsm2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivess1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları", S Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivess2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivets.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivets.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivets1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivets2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivets2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivets3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivets3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Tivibu Sport 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivets4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivesm1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Smart Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivesm2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivesm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivees1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivees2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb1.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb2.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb3.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb4.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb5.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 6 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb6.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 7 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb7.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Diğer Kanallar", Tabii 8 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb8.m3u8
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 3 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 4 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 5 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 6 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 6 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 7 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 7 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Diğer Kanallar", Exxen 8 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports16.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları", Exxen 8 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports15.xyz/
+https://andro.evrenesoglu111.click/checklist/androstreamliveexn8.m3u8
 
