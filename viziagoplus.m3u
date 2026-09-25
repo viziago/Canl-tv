@@ -1869,13 +1869,13 @@ http://icestreaming.rai.it/5.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://sportiva.inmystream.it/stream/sportiva
 
-#EXTINF:-1 tvg-logo="" group-title="Radyo", ITALIA Italia 80
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://icy.unitedradio.it/um016.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="Radyo", Radio 105 - Zoo Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://icy.unitedradio.it/105Zoo.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="Radyo", ITALIA Italia 80
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://icy.unitedradio.it/um016.mp3
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png" group-title="Radyo", Alpha Boys School Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -6615,19 +6615,19 @@ https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor Kanalları", beIN SPORTS 1 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzkwMjE0NjMwNjQxfQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzkwMzAyMDI0MTY5fQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor Kanalları", beIN SPORTS 2 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzkwMjE0NjMxNjQxfQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzkwMzAyMDI1MTcwfQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor Kanalları", beIN SPORTS 3 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzkwMjE0NjMyNjQxfQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzkwMzAyMDI2MTcwfQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="Spor Kanalları", beIN SPORTS 4 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzkwMjE0NjMzNjQyfQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzkwMzAyMDI3MTcwfQ==
 
 #EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", bein Sports 5 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3OTAyMTQ2MzQ2NDJ9
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3OTAzMDIwMjgxNzF9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Patron TV Kanalları", BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
@@ -6761,125 +6761,81 @@ https://patronsports2.cfd/ex5/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/de1ad749f413b5dd69e0a3dc282767e5.png" group-title="AtomSpor Maçlar - RHL", HC Energetik - HC Partizan [07:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/de1ad749f413b5dd69e0a3dc282767e5.png" group-title="AtomSpor Maçlar - RHL", HC Energetik - HC Bajkal [07:28]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20424038
+20434782
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/ed020583e281d5307a5a416fd6b44f26.png" group-title="AtomSpor Maçlar - Philippines. UAAP U19. Wo...", National Bullpups U19 (Bayanlar) - ADU Falcons U19 (Bayanlar) [07:45]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/bc03c11f8d08a840914f2603f6479c4d.png" group-title="AtomSpor Maçlar - RHL", Elektronik Yaroslavl - Berkut Volgograd [07:35]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20424673
+20434794
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/96a8a665961ef3d800dc35cddce3a532.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Zuzanna Pawlikowska - Ksenia Smirnova [09:35]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/441fe18f0ce2bdd1eb9c416df16e4781.png" group-title="AtomSpor Maçlar - China. National Champions...", Shanghai - Henan [07:45]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425040
+20435089
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/a1847f1061bddb0887300ba44423e52a.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Ekaterina Perelygina - Ulyana Hrabavets [09:35]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/107089.png" group-title="AtomSpor Maçlar - Asian Games", Özbekistan U23 - Suudi Arabistan U23 [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425028
+20434997
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/bbfc157b77818eb93fd00aa1feed278d.png" group-title="AtomSpor Maçlar - World Tennis. Plovdiv. Wo...", Caijsa Wilda Hennemann - Gaia Maduzzi [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/627e7da6c2058e942b56ee5391b5780d.png" group-title="AtomSpor Maçlar - Angola. Liga Bantu", Sporting do Imbondeiro - Herois do Huambo [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425267
+20434976
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/35113.png" group-title="AtomSpor Maçlar - Asian Games. Women", Tayvan (Bayanlar) - Filipinler (Bayanlar) [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/2458396726052b2e981147dc0775bc4a.png" group-title="AtomSpor Maçlar - China. National Champions...", Yunnan (Bayanlar) - Sichuan (Bayanlar) [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425226
+20435092
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/2d0da7ce61e4022a47cb209bbc89b1ef.png" group-title="AtomSpor Maçlar - ATP. Hangzhou", Fabian Marozsan - Alex Bolt [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/e8e1e5472bdeb157ea8b3749ea35fe28.png" group-title="AtomSpor Maçlar - China. National Champions...", Jiangsu Zenith Steel (Bayanlar) - Fujian (Bayanlar) [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425139
+20435075
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png" group-title="AtomSpor Maçlar - ATP. Chengdu", Tallon Griekspoor - Denis Shapovalov [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/036331c176d04761e2ad867fab7a2d0e.png" group-title="AtomSpor Maçlar - World Tennis. Nanao. Wome...", Yoshioka/Miyamoto - Nagata/Sato [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425162
+20435076
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4e9e85c5c374598b454ae2bda961f178.png" group-title="AtomSpor Maçlar - Russian Championship. Nat...", SPbPU Saint Petersburg - DGTU Makhachkala [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/58355.png" group-title="AtomSpor Maçlar - World Tennis. Yinchuan", Chan-Yeong Oh - Mukund Sasikumar [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425184
+20435046
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/1f3420731ebd2694a6fb97df2a22c119.png" group-title="AtomSpor Maçlar - World Tennis. Plovdiv. Wo...", Dunja Maric - Alessandra Mazzola [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/02bf9de26d555b466a153980a9299f90.png" group-title="AtomSpor Maçlar - WTA. Singapore", Elise Mertens - Maja Chwalinska [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425266
+20435069
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/bffe8910415da1e48da2eb80b0aa841b.png" group-title="AtomSpor Maçlar - World Tennis. Plovdiv. Wo...", Ane Mintegi Del Olmo - Beatrise Zeltina [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/42a9ac6a2e0d6ba0dc63bc8d7afee96b.png" group-title="AtomSpor Maçlar - ATP. Chengdu", Vit Kopriva - Denis Shapovalov [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425250
+20434948
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/59177.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Yurii Dzhavakian - Chirag Duhan [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5b45f9273b7d118ede8b8646bba6f11a.png" group-title="AtomSpor Maçlar - ATP. Chengdu", Jenson Brooksby - Lorenzo Sonego [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425278
+20435142
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/b3a1ff0f16c71c01772e41e4f94a2ed0.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Pietro Orlando Fellin - Karim Ibrahim [10:00]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/fe786419b87891122596b8620813fa9d.png" group-title="AtomSpor Maçlar - Philippines. PNL", Juggernauts - Cyclones [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425260
+20435088
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5e057f73b2ad83ce88ee63aadc219064.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Samir Hamza Reguig - Romain Faucon [10:05]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/a3ffb2dc8d59e0f08afb9bc3bc2cc491.png" group-title="AtomSpor Maçlar - Club Friendlies", KCC Egis - Changwon LG Sakers [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425261
+20435105
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/8ef87057105bc6ab95655c339d68de93.png" group-title="AtomSpor Maçlar - World Tennis. Sharm El Sh...", Luca Castagnola - Fares Zakaria [10:05]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/6acc662680a0adbb1127e3d0f3e2b378.png" group-title="AtomSpor Maçlar - Philippines. SSL. Women", LPU Pirates (Bayanlar) - AdU Falcons (Bayanlar) [08:00]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425338
+20434994
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/dea631d981467127308273dfa1e22e8a.png" group-title="AtomSpor Maçlar - ATP. Chengdu", Federico Cina - Camilo Ugo Carabelli [10:15]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/32b47db5f25c538af05e0fd763ee2af5.png" group-title="AtomSpor Maçlar - World Tennis. Nanao. Wome...", Deng/Nakashima - Abe/Yamazaki [08:17]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425384
+20435077
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/f8cc26b14caf1391c53e1e62f4bd1ea7.png" group-title="AtomSpor Maçlar - ATP. Chengdu", James Duckworth - Lorenzo Sonego [10:15]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/954183.png" group-title="AtomSpor Maçlar - ATP. Hangzhou", Kyrian Jacquet - Tomas Martin Etcheverry [08:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425465
+20435208
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/09d5018f231da2c851008564453e6275.png" group-title="AtomSpor Maçlar - World Tennis. Santa Margh...", Daria Yesypchuk - Alisa Oktiabreva [10:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0c6ec106a92b6c1775fd48e88ab45a01.png" group-title="AtomSpor Maçlar - India. Bangalore. Super D...", Bangalore City - Kodagu [08:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425514
+20435272
 
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/0532020a80a7ec5830a2377aaad73eac.png" group-title="AtomSpor Maçlar - World Tennis. Santa Margh...", Vittoria Paganetti - Romane Longueville [10:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4394892e739c971d869be8c84cdf80b3.png" group-title="AtomSpor Maçlar - India. Monyul Super Leagu...", Thrizino-Buragaon - Rhebla Gangsum [08:30]
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425510
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/64f825fc0cffef032cf01f63e8901d05.png" group-title="AtomSpor Maçlar - ATP. Hangzhou", Rinky Hijikata - Dalibor Svrcina [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425316
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/6558.png" group-title="AtomSpor Maçlar - FIBA Intercontinental Cup", Rytas Vilnius - Shanghai Dongfang Sharks [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425413
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/096df404e13c102d24b2dfa3fa86af6c.png" group-title="AtomSpor Maçlar - WTA. Seoul", Jelena Ostapenko - Taylah Preston [10:30]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425502
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/aae311e0645a3b2d31adf584a64fd392.png" group-title="AtomSpor Maçlar - World Tennis. Santa Margh...", Eric Vanshelboim - Gianmarco Ferrari [10:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425490
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/5bfeddb2ed98281bfe35c2069de3deed.png" group-title="AtomSpor Maçlar - World Tennis. Santa Margh...", Denise Valente - Anna Petkovic [10:35]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425450
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/927332863c76f819fa6d4539c31befaa.png" group-title="AtomSpor Maçlar - WTA. Singapore", Xinyu Wang - Joanna Garland [11:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425562
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/d8bd6caa4f3dd99ca2f7223c546645bc.png" group-title="AtomSpor Maçlar - World Tennis. Pardubice", Sebastian Dominko - Marko Bekeni [11:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425801
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/160697.png" group-title="AtomSpor Maçlar - Billie Jean King Cup. Dou...", Ukrayna (Bayanlar) - Belçika (Bayanlar) [11:00]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425734
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/6a3aecdda4134648692ee2ca47e1a850.png" group-title="AtomSpor Maçlar - World Tennis. Pardubice", Stepan Baum - Jakub Vrtilka [11:15]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425895
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/4144d9ece867f328184b1ccca55bae5e.png" group-title="AtomSpor Maçlar - ATP. Hangzhou", Bu Yunchaokete - Michael Zheng [11:15]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425910
-
-#EXTINF:-1 tvg-logo="https://1xlite-5022.pro/resized/size16/sfiles/logo_teams/22379.png" group-title="AtomSpor Maçlar - World Tennis. Pardubice", Dominik Recek - Jakub Kusy [11:15]
-#EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
-20425833
+20435283
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="AtomSpor TV Kanalları", BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top/
@@ -7029,25 +6985,61 @@ https://hz8.d72577a9dd0ec62.cfd/ex3/mono.m3u8
 #EXTVLCOPT:http-referrer=https://inattv1303.xyz/
 https://hz8.d72577a9dd0ec62.cfd/ex4/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 13:30 | M.Andreeva - A.Sasnovich
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Portekiz - Galler
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Norveç - Danimarka
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Hollanda - Almanya
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/as/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Sırbistan - Yunanistan
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Kosova - İrlanda
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 13:00 | FIA Formula 2 - Sıralama Turları
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/b4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 13:30 | T.Prozorova - A.Eala
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
 https://hz8.d72577a9dd0ec62.cfd/bm1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 15:00 | İstanbul Gençlik - Giresunspor
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 19:00 | Dubai Basket - Real Madrid
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
-https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
+https://hz8.d72577a9dd0ec62.cfd/ss/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 17:00 | Belçika - Slovenya
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 19:00 | Hapoel Tel Aviv - Bayern Münih
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
-https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
+https://hz8.d72577a9dd0ec62.cfd/ss2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 22:00 | Barcelona - Paris FC
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:00 | Kizilyildiz - Zalgiris Kaunas
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
-https://hz8.d72577a9dd0ec62.cfd/trtspor/mono.m3u8
+https://hz8.d72577a9dd0ec62.cfd/ex7/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 22:05 | İtalya - Finlandiya
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:15 | Panathinaikos - Paris
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
-https://hz8.d72577a9dd0ec62.cfd/trtspor2/mono.m3u8
+https://hz8.d72577a9dd0ec62.cfd/ss2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:30 | Barcelona - Anadolu Efes
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ss/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:30 | Baskonia - Olympiakos
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex6/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="İnat TV (Alternatif) Maçlar", 21:45 | Asvel Villeurbanne - Maccabi Fox
+#EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
+https://hz8.d72577a9dd0ec62.cfd/ex5/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="İnat TV (Alternatif) Kanalları", beIN Sports 1 A
 #EXTVLCOPT:http-referrer=https://taraftarium1083.xyz/
