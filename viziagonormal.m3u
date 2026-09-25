@@ -2436,10 +2436,6 @@ http://mediaserv33.live-streams.nl:8036/live
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://icecast.omroep.nl/radio5-bb-mp3
 
-#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="Radyo", Sky Radio 80's Hits
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" group-title="Radyo", Star FM Manila
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream-13.zeno.fm/g1pmt17nz9duv
@@ -2738,10 +2734,6 @@ https://playerservices.streamtheworld.com/pls/977_HITS.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://radio.stereoscenic.com/asp-h
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Radyo", Frisky
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://stream2.friskyradio.com/frisky_mp3_hi
-
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Radyo", Classic Vinyl HD Opus
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://icecast.walmradio.com:8443/classic_opus
@@ -2945,10 +2937,6 @@ http://www.smoothjazz247.com/smoothjazz24-7.m3u
 #EXTINF:-1 tvg-logo="" group-title="Radyo", .977 Comedy
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://playerservices.streamtheworld.com/pls/977_COMEDY.m3u
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Radyo", Frisky Deep
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://deep.friskyradio.com/friskydeep_aachi
 
 #EXTINF:-1 tvg-logo="" group-title="Radyo", Hot 108 JAMZ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3741,9 +3729,6 @@ https://lord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi", NOSTALJI DIZI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi", TABII-TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi", HTV
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
@@ -4939,9 +4924,6 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar", Sun RTV (720p) [Not 24/7] (Alternatif 1)
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar", Tabii Spor 6 (720p) [Geo-blocked]
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar", Tarih TV
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
 
@@ -5286,9 +5268,6 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNyKdtxt/Poster-Maker-04032026-084524.jpg" group-title="Ulusal Kanallar", TRT Türk -A-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fx9aQY5CVpcg93aND8iSspo1Lr9gC0zmyTRwIUyZcf61PJIe3s0WnKnraHQKpNmdr397aZwStw=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal Kanallar", TABII TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar", Kanal D -A-
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
@@ -5926,18 +5905,6 @@ https://patronsports2.cfd/tv85/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex6/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", SKY SPORTS F1
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/skyf1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", EURO SPORT 1
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/eu1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", EURO SPORT 2
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/eu2/mono.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", TABİİ SPOR
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex7/mono.m3u8
@@ -5969,180 +5936,4 @@ https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları", A SPOR (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivees1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivees2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 6 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb6.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 7 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb7.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 8 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu113.click/checklist/androstreamlivetb8.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivees1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivees2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 6 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb6.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 7 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb7.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 8 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu115.click/checklist/androstreamlivetb8.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivees1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivees2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 6 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb6.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 7 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb7.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 8 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu111.click/checklist/androstreamlivetb8.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Euro Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 6 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb6.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 7 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb7.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları", Tabii 8 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports17.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb8.m3u8
 
