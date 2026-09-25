@@ -2463,7 +2463,7 @@ http://mediaserv33.live-streams.nl:8036/live
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://icecast.omroep.nl/radio5-bb-mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Radyo - Telegram @viziago", Sky Radio 80's Hits
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="Radyo - Telegram @viziago", Sky Radio 80's Hits
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
 
@@ -2765,7 +2765,7 @@ https://playerservices.streamtheworld.com/pls/977_HITS.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://radio.stereoscenic.com/asp-h
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Radyo - Telegram @viziago", Frisky
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Radyo - Telegram @viziago", Frisky
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://stream2.friskyradio.com/frisky_mp3_hi
 
@@ -2973,7 +2973,7 @@ http://www.smoothjazz247.com/smoothjazz24-7.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://playerservices.streamtheworld.com/pls/977_COMEDY.m3u
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Radyo - Telegram @viziago", Frisky Deep
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Radyo - Telegram @viziago", Frisky Deep
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://deep.friskyradio.com/friskydeep_aachi
 
@@ -3769,7 +3769,7 @@ https://lord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi - Telegram @viziago", NOSTALJI DIZI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Sinema & Dizi - Telegram @viziago", TABII-TV
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi - Telegram @viziago", TABII-TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi - Telegram @viziago", HTV
@@ -4972,7 +4972,7 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar - Telegram @viziago", Sun RTV (720p) [Not 24/7] (Alternatif 1)
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Tabii Spor 6 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar - Telegram @viziago", Tabii Spor 6 (720p) [Geo-blocked]
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ulusal Kanallar - Telegram @viziago", Tarih TV
@@ -5320,7 +5320,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNyKdtxt/Poster-Maker-04032026-084524.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TRT Türk -A-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TABII TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fx9aQY5CVpcg93aND8iSspo1Lr9gC0zmyTRwIUyZcf61PJIe3s0WnKnraHQKpNmdr397aZwStw=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal Kanallar - Telegram @viziago", TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D -A-
@@ -5911,47 +5911,107 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bjr7u18.png" group-title="Belgesel - Telegram @viziago", Yaban TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/6868/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Antrenman Turlari-3
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yariş 1
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Siralama Turlari
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Siralama Turlari (Azerice)
+https://andro.evrenesoglu121.click/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", C.Ruud - F.Cerundolo
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mozambik - Senegal
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", J.Mensik - B.Nakashima
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Azerbaycan - Çekya
+https://andro.evrenesoglu121.click/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Hindistan - Panama
+https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Slovenya - Polonya
 https://andro.evrenesoglu121.click/checklist/androstreamlivetrtsy.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nijerya - Madagaskar
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Gürcistan - Kuzey İrlanda
 https://andro.evrenesoglu121.click/checklist/androstreamlivecbcs.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tofaş - Bandirma Bordo
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ermenistan - Çekya
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Beşiktaş - Valencia Basket
-https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tofaş - Bandirma Bordo
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tofaş - Bandirma Bordo (Yedek)
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fenerbahçe Tarfin - Virtus Bologna
 https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Beşiktaş - Valencia Basket
+https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Beşiktaş - Valencia Basket (Azerice)
+https://andro.evrenesoglu121.click/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", R.Jodar - A.Bublik
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Girona - Albacete
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn6.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Türkiye - Fransa
 https://andro.evrenesoglu121.click/checklist/androstreamliveatv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Türkiye - Fransa (Azerice)
+https://andro.evrenesoglu121.click/checklist/androstreamlivecbs.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Türkei – Frankreich (Deutsch)
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Turquie - France (français)
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İsveç - Romanya
 https://andro.evrenesoglu121.click/checklist/androstreamliveas.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İsveç - Romanya (Yedek)
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Macaristan - Ukrayna
-https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Polonya - Bosna Hersek
-https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Karadağ - Güney Kıbrıs
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Partizan - Olimpia Milano
-https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Partizan - Olimpia Milano (Azerice)
+https://andro.evrenesoglu121.click/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fas - Gabon
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mısır - Gabon
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cezayir - Zambiya
+https://andro.evrenesoglu121.click/checklist/androstreamlivenba.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Finlandiya - Fransa
 https://andro.evrenesoglu121.click/checklist/androstreamlivetrtsy.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Alcaraz/Mensik - Bublik/Fritz
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yariş 2
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
@@ -6019,241 +6079,358 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Barcelona - Leyma Coruna
 https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Thrizino-Buragaon - Rhebla Gangsum
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Güney Kore U23 - Vietnam U23
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437836.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", FC Bangalore City - Kodagu
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuxi Wugou - Guangxi Hengchen
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438097.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Çin (Bayanlar) - Vietnam (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Al Jaish Damascus U19 - Al-Ittihad Aleppo U19
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438152.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kuzey Kore (Bayanlar) - Tayvan (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Al-Taliya U19 - Al-Karamah U19
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438082.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Korea DPR (w) - Chinese Taipei (w)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuxi Wugou - Guangxi Hengchen FC
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876527.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", China PR (w) - Vietnam (w)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wisla Krakow II - Czarni Polaniec
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876581.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", HSSH - GCSM
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Pecsi MFC (w) - Ujpesti FC (w)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876675.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Karlsruher (Amatörler) - Berliner Dynamo (Amatörler)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", VIFK Saint Petersburg - Pushkin Leningrad State University
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438354.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Olympic FC - Leader FC
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Arman - Aino Mina
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calumbo - Bailundo
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Thimphu FC - Tensung FC
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877719.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Italya (Brian) - Germany (Louis)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Persiba Balikpapan - Dejan FC
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877671.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Chivas + - Detroit +
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Pecsi MFC (Bayanlar) - Újpesti TE (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438171.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Özbekistan U23 - Suudi Arabistan U23
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", SIWFC - B-YSU
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438778.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Borussia (Amatörler) - Bayern (Amatörler)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435753.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Güney Kore (Bayanlar) - Özbekistan (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437877.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", LAW - PHY
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", AUDIT - AGRO
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438646.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vavilon+ - Palmira+
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Rizhao Surf - Dongying Oilers
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438825.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Twente (Amatörler) - Venlo (Amatörler)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Catinton - Samba
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438839.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bears (2x2) - Wild (2x2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bravos da Quissama - Alto Zambeze
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438028.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", ECON - POLIT
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", FINANCE - BUILD
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438647.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", D.C.United + - Crew +
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - Filipinler (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437868.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Qingdao United - Yannta Rovers
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Silures+ - Veneti+
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438896.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Rebels FC - Legion FC
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Los Angeles + - Fusion +
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438690.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bruges+ - Rome+
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nijmegen (Amatörler) - Heracles (Amatörler)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438763.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tornado FC - Vikings FC
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bayern (Swokan) - Manchester City (Exort)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438474.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sporting do Imbondeiro - Herois do Huambo
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sibir-M - Dynamo Barnaul II
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438191.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Burgundians+ - Iceni+
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wisla Krakow II - MKS Czarni Połaniec
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438124.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bangalore City - Kodagu
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Birmingham + - Loudoun +
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438862.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", KCC Egis - Changwon LG Sakers
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Krivichi+ - Ancalites+
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438755.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vela Basket - Riverport Team
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Picinguaba - Diamantina
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438753.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Essentuki - Kemerovo
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nagasaki Velca - Shimane Susanoo Magic
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437633.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Cobras (Bayanlar) - IPBL Sharks (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tayvan (Bayanlar) - Japonya (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437789.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bosses - Olympus
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Hapoel Jerusalem B.C. - Bnei Herzliya
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438060.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ningbo Waves - Shenyang Seagulls
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435566.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Hapoel Jerusalem - Bnei Herzliya
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876453.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Atlant - Kings
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Putuo - Anji
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877357.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Lions - Sharks
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zvezda Balkana - Olympia NS
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877359.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yaroslavl (Bayanlar) - Tomsk (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Serbian Peaks - Belgrade Warriors
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877899.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Magic Duo - Tandem
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Croatia (TBL) - India (TBL)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438537.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Hyenas - IPBL Tigers
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Krasnoyarsk Krai (Bayanlar) - Moscow (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438438.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bisons FB - Arrows FB
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bryansk (Bayanlar) - Izhevsk (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438629.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Balashikha (Bayanlar) - Naberezhnye Chelny (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kazan - Tyumen
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438568.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Piranhas - IPBL Octopus
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sırbistan (TBL) - Uruguay (TBL)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438531.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - ABD (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nalchik - Saratov
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438684.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İtalya - Polonya
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuhan Lightnings - Jinan Cyclones
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438879.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Belçika Pro (Bayanlar) - Avustralya Pro (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Broncos FB - Monsters FB
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438868.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Guangdong - Liaoning
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Putuo - Anji (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438512.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kuzbass (4x4) - Legion (4x4)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Rhinos - IPBL Moose
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438633.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Türkiye (Bayanlar) - Çin (Bayanlar)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ural - Petrel
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438446.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mozambik - Slovakya
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mytishchi (Bayanlar) - Angarsk (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438655.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Küba - ABD
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Baskonia (cyber) - Olympiacos SFP Pireus (cyber)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55356004.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Arjantin - ABD
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Valencia (cyber) - Crvena Zvezda (cyber)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55355475.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jenson Brooksby - Lorenzo Sonego
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Los Angeles Lakers (cyber) - Houston Rockets (cyber)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55356275.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Chan-Yeong Oh - Mukund Sasikumar
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Dallas Mavericks (cyber) - Oklahoma City Thunder (cyber)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55355570.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Oh Chan-Yeong - Mukund Sasikumar
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Xi'an Legends - Wuhan Lightnings
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438100.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jenson Brooksby - Lorenzo Sonego (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870617.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Gorkiy - Kuzbass Kemerovo
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438090.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kyrian Jacquet - Tomas Martin Etcheverry
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", CV Tenerife La Laguna (w) - Cuesta Piedra Santa Cruz (w)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877307.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Naoki Nakagawa - Corban Crowther
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tianjin Bohai Bank (w) - Zhejiang (w)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876687.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kyrian Jacquet - Tomas Martin Etcheverry (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fujian - Jiangsu Nanjing
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876467.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ryota Tanuma - Hunter Heck
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435373.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Slovakia U-20 (w) - Cyprus U-20 (w)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876999.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Robert Cash/Alexander Erler - Robin Haase/Constantin Frantzen
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Slovakya U20 (Bayanlar) - Cyprus U20 (Women)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438333.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cash/Erler - Frantzen/Haase
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İsrail U20 - Kıbrıs U20
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438602.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Binda/Pankin - Barsukov/Ehrenschneider
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Israel U-20 - Cyprus U-20
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877537.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kachmazov/Palan - Beamish/Shearer
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", LKS Commercecon Lodz (w) - Zeren Spor (w)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877541.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Dominik Palan/Alibek Kachmazov - Nick Beamish/Matthew Shearer
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", VC Shanghai (Bayanlar) - Beijing BAW (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438178.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Semen Pankin/Alexandr Binda - Nikolai Barsukov/Nino Ehrenschneider
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871489.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Danimarka (Pro) - Sırbistan (Pro)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438641.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daria Beskorovainaya - Yana Prilepskaya
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İtalya - Arjantin
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438493.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Alejandro Tabilo - Adrian Mannarino
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sparta (4x4) - Stroitel (4x4)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438323.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vladislav Masalskiy - Denis Kolgin
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435408.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya - Slovakya
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438407.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Alejandro Tabilo - Adrian Mannarino (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Brezilya - ABD
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438855.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ulyana Hrabavets - Maria Golovina
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - Çin (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437993.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yuliya Hatouka - Mara Guth
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Küba - Mozambik
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438440.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zuzanna Pawlikowska - Esther Adeshina
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Brezilya (Bayanlar) - ABD (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438588.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ulyana Hrabavets - Maria Golovina (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tianjin Bohai Bank (Bayanlar) - Zhejiang New Century Tourism (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438177.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zuzanna Pawlikowska - Esther Adeshina (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fujian - Jiangsu
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438067.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yuliya Hatouka - Mara Guth (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tenerife Libbys La Laguna (Bayanlar) - Cuesta Piedra Santa Crus (Bayanlar)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438487.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 1
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Finn Murgett - Michael Agwi
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437411.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Finn Murgett - Michael Agwi (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40875155.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kateryna Lazarenko - Nahia Berecoechea
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437912.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vittoria Paganetti - Camilla Gennaro
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437883.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ane Mintegi Del Olmo - Ilinca Dalina Amariei
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437864.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ane Mintegi Del Olmo - Ilinca Dalina Amariei (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876061.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Lilian Marmousez - Luka Talan Lopatic
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437913.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vittoria Paganetti - Camilla Gennaro (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876099.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kateryna Lazarenko - Nahia Berecoechea (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876157.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Berfu Cengiz - Han Shi
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438037.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calvin Hemery - Carlos Taberner
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438074.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kubka/Haverlag - Karamoko/Jakupovic
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438030.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calvin Hemery - Carlos Taberner (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876481.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cristina Bucsa - Linda Noskova
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438280.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cristina Bucsa - Linda Noskova (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876893.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kato/Perez - Lansere/Prozorova
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438427.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daniele Rapagnetta - Laurent Lokoli
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438457.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daniele Rapagnetta - Laurent Lokoli (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877247.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Miyu Kato/Ellen Perez - Tatiana Prozorova/Sofya Lansere
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877187.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cabral/Tracy - Sun/Zhang
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438523.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Casper Ruud - Francisco Cerundolo
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438627.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Harold Mayot - Jesper De Jong
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438742.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mia Ristic - Jessica Pieri
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438748.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Reese Brantmeier - Angelina Voloshchuk
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438560.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Elena Malygina - Sinja Kraus
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438556.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Reese Brantmeier - Angelina Voloshchuk (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877453.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nellie Taraba Wallberg/Caijsa Wilda Hennemann - Lidia Encheva/Iva Ivanova
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877795.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jaime Faria - Hugo Gaston
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438677.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Harold Mayot - Jesper de Jong (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877817.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jaime Faria - Hugo Gaston (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877687.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mia Ristic - Jessica Pieri (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877829.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Inaki Montes-De La Torre - Lui Maxted
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877929.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Halys/Miedler - Marozsan/Rikl
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438851.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Inaki Montes-De La Torre - Lui Maxted (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438798.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Casper Ruud - Francisco Cerundolo (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877587.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Charo Esquiva Banuls - Tiphanie Lemaitre
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438857.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Charo Esquiva Banuls - Tiphanie Lemaitre (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40878047.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Anna Shurkina - Larisa Galkina
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438692.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Irina Klimova - Elena Tsepilova
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437944.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 1
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 2
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 2
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 3
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 3
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 4
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 4
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BeIN_Sports_5_logo.png/200px-BeIN_Sports_5_logo.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 5
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 5
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports Max 1
@@ -6271,19 +6448,19 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", S Sport Plus
 https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor
 https://andro.evrenesoglu121.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 1
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 1
 https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 2
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 2
 https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 3
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 3
 https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 4
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 4
 https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Smart Spor 1
@@ -6292,10 +6469,10 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Smart Spor 2
 https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 1
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 1
 https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 2
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 2
 https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", iDMAN Tv
@@ -6400,241 +6577,358 @@ https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Exxen Sports 8
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Thrizino-Buragaon - Rhebla Gangsum (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Güney Kore U23 - Vietnam U23 (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437836.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", FC Bangalore City - Kodagu (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuxi Wugou - Guangxi Hengchen (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438097.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Çin (Bayanlar) - Vietnam (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Al Jaish Damascus U19 - Al-Ittihad Aleppo U19 (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438152.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kuzey Kore (Bayanlar) - Tayvan (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Al-Taliya U19 - Al-Karamah U19 (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438082.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Korea DPR (w) - Chinese Taipei (w) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuxi Wugou - Guangxi Hengchen FC (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876527.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", China PR (w) - Vietnam (w) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wisla Krakow II - Czarni Polaniec (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876581.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", HSSH - GCSM (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Pecsi MFC (w) - Ujpesti FC (w) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876675.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Karlsruher (Amatörler) - Berliner Dynamo (Amatörler) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", VIFK Saint Petersburg - Pushkin Leningrad State University (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438354.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Olympic FC - Leader FC (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Arman - Aino Mina (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calumbo - Bailundo (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Thimphu FC - Tensung FC (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877719.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Italya (Brian) - Germany (Louis) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Persiba Balikpapan - Dejan FC (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877671.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Chivas + - Detroit + (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Pecsi MFC (Bayanlar) - Újpesti TE (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438171.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Özbekistan U23 - Suudi Arabistan U23 (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", SIWFC - B-YSU (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438778.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Borussia (Amatörler) - Bayern (Amatörler) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435753.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Güney Kore (Bayanlar) - Özbekistan (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437877.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", LAW - PHY (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", AUDIT - AGRO (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438646.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vavilon+ - Palmira+ (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Rizhao Surf - Dongying Oilers (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438825.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Twente (Amatörler) - Venlo (Amatörler) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Catinton - Samba (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438839.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bears (2x2) - Wild (2x2) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bravos da Quissama - Alto Zambeze (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438028.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", ECON - POLIT (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", FINANCE - BUILD (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438647.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", D.C.United + - Crew + (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - Filipinler (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437868.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Qingdao United - Yannta Rovers (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Silures+ - Veneti+ (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438896.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Rebels FC - Legion FC (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Los Angeles + - Fusion + (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438690.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bruges+ - Rome+ (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nijmegen (Amatörler) - Heracles (Amatörler) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438763.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tornado FC - Vikings FC (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bayern (Swokan) - Manchester City (Exort) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438474.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sporting do Imbondeiro - Herois do Huambo (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sibir-M - Dynamo Barnaul II (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438191.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Burgundians+ - Iceni+ (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wisla Krakow II - MKS Czarni Połaniec (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438124.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bangalore City - Kodagu (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Birmingham + - Loudoun + (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438862.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", KCC Egis - Changwon LG Sakers (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Krivichi+ - Ancalites+ (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438755.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vela Basket - Riverport Team (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Picinguaba - Diamantina (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438753.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Essentuki - Kemerovo (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nagasaki Velca - Shimane Susanoo Magic (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437633.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Cobras (Bayanlar) - IPBL Sharks (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tayvan (Bayanlar) - Japonya (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437789.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bosses - Olympus (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Hapoel Jerusalem B.C. - Bnei Herzliya (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438060.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ningbo Waves - Shenyang Seagulls (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435566.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Hapoel Jerusalem - Bnei Herzliya (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876453.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Atlant - Kings (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Putuo - Anji (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877357.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Lions - Sharks (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zvezda Balkana - Olympia NS (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877359.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yaroslavl (Bayanlar) - Tomsk (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Serbian Peaks - Belgrade Warriors (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877899.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Magic Duo - Tandem (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Croatia (TBL) - India (TBL) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438537.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Hyenas - IPBL Tigers (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Krasnoyarsk Krai (Bayanlar) - Moscow (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438438.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bisons FB - Arrows FB (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Bryansk (Bayanlar) - Izhevsk (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438629.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Balashikha (Bayanlar) - Naberezhnye Chelny (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kazan - Tyumen (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438568.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Piranhas - IPBL Octopus (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sırbistan (TBL) - Uruguay (TBL) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438531.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - ABD (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nalchik - Saratov (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438684.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İtalya - Polonya (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Wuhan Lightnings - Jinan Cyclones (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438879.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Belçika Pro (Bayanlar) - Avustralya Pro (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Broncos FB - Monsters FB (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438868.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Guangdong - Liaoning (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Putuo - Anji (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438512.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kuzbass (4x4) - Legion (4x4) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", IPBL Rhinos - IPBL Moose (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438633.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Türkiye (Bayanlar) - Çin (Bayanlar) (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ural - Petrel (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438446.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mozambik - Slovakya (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mytishchi (Bayanlar) - Angarsk (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438655.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Küba - ABD (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Baskonia (cyber) - Olympiacos SFP Pireus (cyber) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55356004.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Arjantin - ABD (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Valencia (cyber) - Crvena Zvezda (cyber) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55355475.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jenson Brooksby - Lorenzo Sonego (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Los Angeles Lakers (cyber) - Houston Rockets (cyber) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55356275.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Chan-Yeong Oh - Mukund Sasikumar (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Dallas Mavericks (cyber) - Oklahoma City Thunder (cyber) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech55355570.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Oh Chan-Yeong - Mukund Sasikumar (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Xi'an Legends - Wuhan Lightnings (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438100.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jenson Brooksby - Lorenzo Sonego (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870617.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Gorkiy - Kuzbass Kemerovo (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438090.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kyrian Jacquet - Tomas Martin Etcheverry (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", CV Tenerife La Laguna (w) - Cuesta Piedra Santa Cruz (w) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877307.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Naoki Nakagawa - Corban Crowther (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tianjin Bohai Bank (w) - Zhejiang (w) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876687.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kyrian Jacquet - Tomas Martin Etcheverry (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40870749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fujian - Jiangsu Nanjing (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876467.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ryota Tanuma - Hunter Heck (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435373.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Slovakia U-20 (w) - Cyprus U-20 (w) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876999.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Robert Cash/Alexander Erler - Robin Haase/Constantin Frantzen (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Slovakya U20 (Bayanlar) - Cyprus U20 (Women) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438333.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cash/Erler - Frantzen/Haase (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İsrail U20 - Kıbrıs U20 (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438602.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Binda/Pankin - Barsukov/Ehrenschneider (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Israel U-20 - Cyprus U-20 (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877537.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kachmazov/Palan - Beamish/Shearer (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", LKS Commercecon Lodz (w) - Zeren Spor (w) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877541.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Dominik Palan/Alibek Kachmazov - Nick Beamish/Matthew Shearer (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", VC Shanghai (Bayanlar) - Beijing BAW (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438178.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Semen Pankin/Alexandr Binda - Nikolai Barsukov/Nino Ehrenschneider (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871489.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Danimarka (Pro) - Sırbistan (Pro) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438641.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daria Beskorovainaya - Yana Prilepskaya (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20434877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", İtalya - Arjantin (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438493.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Alejandro Tabilo - Adrian Mannarino (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Sparta (4x4) - Stroitel (4x4) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438323.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vladislav Masalskiy - Denis Kolgin (Alternatif 1)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435408.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya - Slovakya (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438407.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Alejandro Tabilo - Adrian Mannarino (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Brezilya - ABD (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438855.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ulyana Hrabavets - Maria Golovina (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Japonya (Bayanlar) - Çin (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437993.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yuliya Hatouka - Mara Guth (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Küba - Mozambik (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438440.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zuzanna Pawlikowska - Esther Adeshina (Alternatif 2)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech20435831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Brezilya (Bayanlar) - ABD (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438588.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ulyana Hrabavets - Maria Golovina (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871963.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tianjin Bohai Bank (Bayanlar) - Zhejiang New Century Tourism (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438177.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Zuzanna Pawlikowska - Esther Adeshina (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Fujian - Jiangsu (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438067.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Yuliya Hatouka - Mara Guth (Alternatif 3)
-https://andro.evrenesoglu121.click/checklist/androstreamlivech40871953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tenerife Libbys La Laguna (Bayanlar) - Cuesta Piedra Santa Crus (Bayanlar) (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438487.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 1 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Finn Murgett - Michael Agwi (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437411.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Finn Murgett - Michael Agwi (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40875155.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kateryna Lazarenko - Nahia Berecoechea (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437912.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vittoria Paganetti - Camilla Gennaro (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437883.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ane Mintegi Del Olmo - Ilinca Dalina Amariei (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437864.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Ane Mintegi Del Olmo - Ilinca Dalina Amariei (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876061.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Lilian Marmousez - Luka Talan Lopatic (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437913.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Vittoria Paganetti - Camilla Gennaro (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876099.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kateryna Lazarenko - Nahia Berecoechea (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876157.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Berfu Cengiz - Han Shi (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438037.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calvin Hemery - Carlos Taberner (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438074.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kubka/Haverlag - Karamoko/Jakupovic (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438030.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Calvin Hemery - Carlos Taberner (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876481.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cristina Bucsa - Linda Noskova (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438280.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cristina Bucsa - Linda Noskova (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40876893.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Kato/Perez - Lansere/Prozorova (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438427.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daniele Rapagnetta - Laurent Lokoli (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438457.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Daniele Rapagnetta - Laurent Lokoli (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877247.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Miyu Kato/Ellen Perez - Tatiana Prozorova/Sofya Lansere (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877187.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Cabral/Tracy - Sun/Zhang (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438523.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Casper Ruud - Francisco Cerundolo (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438627.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Harold Mayot - Jesper De Jong (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438742.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mia Ristic - Jessica Pieri (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438748.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Reese Brantmeier - Angelina Voloshchuk (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438560.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Elena Malygina - Sinja Kraus (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438556.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Reese Brantmeier - Angelina Voloshchuk (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877453.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Nellie Taraba Wallberg/Caijsa Wilda Hennemann - Lidia Encheva/Iva Ivanova (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877795.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jaime Faria - Hugo Gaston (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438677.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Harold Mayot - Jesper de Jong (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877817.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Jaime Faria - Hugo Gaston (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877687.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Mia Ristic - Jessica Pieri (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877829.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Inaki Montes-De La Torre - Lui Maxted (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877929.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Halys/Miedler - Marozsan/Rikl (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438851.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Inaki Montes-De La Torre - Lui Maxted (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438798.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Casper Ruud - Francisco Cerundolo (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40877587.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Charo Esquiva Banuls - Tiphanie Lemaitre (Alternatif 2)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438857.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Charo Esquiva Banuls - Tiphanie Lemaitre (Alternatif 3)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech40878047.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Anna Shurkina - Larisa Galkina (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20438692.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Irina Klimova - Elena Tsepilova (Alternatif 1)
+https://andro.evrenesoglu121.click/checklist/androstreamlivech20437944.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 1 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 2 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 2 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 3 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 3 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 4 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 4 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BeIN_Sports_5_logo.png/200px-BeIN_Sports_5_logo.png" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 5 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports 5 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", BeIN Sports Max 1 (Alternatif 1)
@@ -6652,19 +6946,19 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", S Sport Plus (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 1 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 1 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 2 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 2 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 3 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 3 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 4 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Tivibu Spor 4 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Smart Spor 1 (Alternatif 1)
@@ -6673,10 +6967,10 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Smart Spor 2 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 1 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 1 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 2 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", Euro Sport 2 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViziaGo Maçlar - Telegram @viziago", iDMAN Tv (Alternatif 1)
@@ -6781,23 +7075,23 @@ https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="ViziaGo Maçlar - Telegram @viziago", Exxen Sports 8 (Alternatif 1)
 https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/patron/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 3
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b3/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 4
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b4/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BeIN_Sports_5_logo.png/200px-BeIN_Sports_5_logo.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 5
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/b5/mono.m3u8
 
@@ -6873,15 +7167,15 @@ https://patronsports2.cfd/tv85/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex6/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", SKY SPORTS F1
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", SKY SPORTS F1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/skyf1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", EURO SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", EURO SPORT 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/eu1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", EURO SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", EURO SPORT 2
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/eu2/mono.m3u8
 
@@ -6913,23 +7207,23 @@ https://patronsports2.cfd/ex5/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 1 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 1 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BeIN_Sports_2_HD.svg/200px-BeIN_Sports_2_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 2 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 2 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//bein2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BeIN_Sports_3_HD.svg/200px-BeIN_Sports_3_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 3 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 3 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BeIN_Sports_4_HD.svg/200px-BeIN_Sports_4_HD.svg.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 4 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 4 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BeIN_Sports_5_logo.png/200px-BeIN_Sports_5_logo.png" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 5 (Alternatif 1)
+#EXTINF:-1 tvg-logo="" group-title="Spor Kanalları - Telegram @viziago", BEIN SPORTS 5 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//bein5/tracks-v1a1/mono.m3u8
 
@@ -6958,594 +7252,594 @@ https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivess2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamlivetb8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu115.click/checklist/androstreamliveexn8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebsm2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivets.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb7.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivetb8.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 4)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 5)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebsm1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivebsm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivess1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivess2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivets4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivesm1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 2)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu113.click/checklist/androstreamliveexn8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 6)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 4)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 7)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 5)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebsm1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivebsm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivess1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivess2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tivibu_logo.svg/200px-Tivibu_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivets4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivesm1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurosport_1_logo.svg/200px-Eurosport_1_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tabii_logo.svg/200px-Tabii_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 3)
-#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 2)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
 https://andro.evrenesoglu111.click/checklist/androstreamliveexn8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 6)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 1 HD (Alternatif 7)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 3 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 4 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport 5 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", beIN Sport Max 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", S Sport 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivets.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 3 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tivibu Sport 4 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Smart Sport 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivees1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Euro Sport 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 3 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 4 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 5 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 6 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 7 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor Kanalları - Telegram @viziago", Tabii 8 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamlivetb8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 1 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 2 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 3 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 4 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 5 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 6 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 7 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exxen_logo.svg/200px-Exxen_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", Exxen 8 HD (Alternatif 3)
+#EXTVLCOPT:http-referrer=https://mahsunsports10.xyz/
+https://andro.evrenesoglu121.click/checklist/androstreamliveexn8.m3u8
 
