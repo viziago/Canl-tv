@@ -2298,6 +2298,7 @@ https://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Müzik - Telegram @viziago", caltexmusic
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Müzik - Telegram @viziago", dimtv
@@ -4011,10 +4012,6 @@ https://secure.live-streams.nl/main
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="Radyo - Telegram @viziago", Intense Radio - We love Dance 256K (Alternatif 1)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://secure.live-streams.nl/main
-
-#EXTINF:-1 tvg-logo="https://www.iranintl.com/favicon.ico" group-title="Radyo - Telegram @viziago", Iran International (HTTPS stream)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://stream.radiojar.com/iintl_c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Radyo - Telegram @viziago", Iran On Air
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
