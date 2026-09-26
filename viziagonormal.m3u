@@ -1462,6 +1462,9 @@ https://mss.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema & Dizi - Telegram @viziago", CANSUYU
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema & Dizi - Telegram @viziago", CHANNEL6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
@@ -1479,6 +1482,12 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema & Dizi - Telegram @viziago", FILMSCREEN (Alternatif 1)
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", FIX TV
+https://yayin.venomlink.com/live/mystream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", FLUX TV
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/FX.png" group-title="Sinema & Dizi - Telegram @viziago", Fx
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -1642,6 +1651,9 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TR:Sinema TV 9 HD
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TRT NOSTALJİ TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema & Dizi - Telegram @viziago", TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
