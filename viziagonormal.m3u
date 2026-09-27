@@ -29,199 +29,294 @@ https://t.me/Viziago
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="📢 Duyuru / İletişim - Telegram @viziago", 💌 ViziaGo Resmi Duyuru Kanalı
 https://t.me/Viziago
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD (Alternatif 1)
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD (Alternatif 1)
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD (Alternatif 2)
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt 1 HD (Alternatif 2)
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/trt1/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 (1080p)
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 (720p)
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 -A-
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 -A-
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 -B-
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT 1 -B-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV
 http://104.238.23.221/dsgo.php?id=246030
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 1)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=2
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 2)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 2)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 3)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 3)
 http://116.202.238.88/ATV_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 4)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (Alternatif 4)
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/atv/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (360p)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV -A-
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV -A-
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV -B-
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV -B-
 https://mss.ayakkabiparti.lol/atv/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV Alanya (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV Alanya (720p) [Not 24/7]
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV Avrupa (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", ATV Avrupa (576p) [Not 24/7]
 https://streamer2.nexgen.bz/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD (Alternatif 1)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD (Alternatif 1)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD (Alternatif 2)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Atv HD (Alternatif 2)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D
 http://104.238.23.221/dsgo.php?id=245931
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D (1080p)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D -A-
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D -A-
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D -B-
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal D -B-
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D FHD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D FHD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD (Alternatif 1)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD (Alternatif 1)
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD (Alternatif 2)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Kanal D HD (Alternatif 2)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://i.postimg.cc/fTkyt27r/1724096167580_Show_Max.jpg" group-title="Ulusal Kanallar - Telegram @viziago", SHOWMAX
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.postimg.cc/fTkyt27r/1724096167580_Show_Max.jpg" group-title="Ulusal Kanallar - Telegram @viziago", SHOWMAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_max_Ke7.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Max
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_max_Ke7.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Max
 https://tv.cdn-vizi.workers.dev/?ID=30
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show TV
 http://104.238.23.221/dsgo.php?id=245949
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show TV (Alternatif 1)
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show TV (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=3
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Tv -A-
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Tv -A-
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Tv -B-
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Show Tv -B-
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 1)
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 1)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 2)
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 2)
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 3)
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Show TV HD (Alternatif 3)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", EuroStar TV (1080p)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", EuroStar TV (1080p)
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/Y/Sk/245994/logo.png?v=638671713931288249" group-title="Ulusal Kanallar - Telegram @viziago", STAR
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/Y/Sk/245994/logo.png?v=638671713931288249" group-title="Ulusal Kanallar - Telegram @viziago", STAR
 http://104.238.23.221/dsgo.php?id=245994
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star TV
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star TV
 https://tv.cdn-vizi.workers.dev/?ID=5
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star Tv -A-
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star Tv -A-
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star Tv -B-
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Star_TV_%28Turkey%29_logo.svg/200px-Star_TV_%28Turkey%29_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", Star Tv -B-
 https://mss.ayakkabiparti.lol/startv/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 1)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 1)
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 2)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 2)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 3)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Star  HD (Alternatif 3)
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8
 http://104.238.23.221/dsgo.php?id=246132
 
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8 (Alternatif 1)
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8 (Alternatif 1)
 https://tv.cdn-vizi.workers.dev/?ID=8
 
-#EXTINF:-1 tvg-id="turksatkablo-188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8.5
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv8_logo.svg/200px-Tv8_logo.svg.png" group-title="Ulusal Kanallar - Telegram @viziago", TV8.5
 https://tv.cdn-vizi.workers.dev/?ID=28
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/w2/245997/logo.png?v=638671713963955947" group-title="Ulusal Kanallar - Telegram @viziago", NOW
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/w2/245997/logo.png?v=638671713963955947" group-title="Ulusal Kanallar - Telegram @viziago", NOW
 http://104.238.23.221/dsgo.php?id=245997
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", NOW TV
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", NOW TV (720p)
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://i.postimg.cc/wT3Myf5W/1724096109639_NOW.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Now -A-
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://i.postimg.cc/wT3Myf5W/1724096109639_NOW.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Now -A-
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD (Alternatif 1)
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD (Alternatif 1)
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD (Alternatif 2)
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Now HD (Alternatif 2)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_tv_dGf.png" group-title="Ulusal Kanallar - Telegram @viziago", Fox TV
+#EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_tv_dGf.png" group-title="Ulusal Kanallar - Telegram @viziago", Fox TV
 https://tv.cdn-vizi.workers.dev/?ID=4
 
-#EXTINF:-1 tvg-id="turksatkablo-90" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_PSS.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_PSS.png" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7
 https://tv.cdn-vizi.workers.dev/?ID=7
 
-#EXTINF:-1 tvg-id="turksatkablo-90" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 (1080p) [Not 24/7]
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-90" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 (720p)
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 (720p)
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-90" tvg-logo="https://i.postimg.cc/MpbtCW3n/Poster-Maker-04032026-085306.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 -A-
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.postimg.cc/MpbtCW3n/Poster-Maker-04032026-085306.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 -A-
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-90" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 Avrupa (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Kanal 7 Avrupa (720p) [Not 24/7]
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tlc_y3J.png" group-title="Ulusal Kanallar - Telegram @viziago", TLC Turkiye
+https://tv.cdn-vizi.workers.dev/?ID=32
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tlc HD
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tlc HD (Alternatif 1)
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/DMAX.png" group-title="Ulusal Kanallar - Telegram @viziago", DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dmax_Mi8.png" group-title="Ulusal Kanallar - Telegram @viziago", DMax (Alternatif 1)
+https://tv.cdn-vizi.workers.dev/?ID=33
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Dmax  HD
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Dmax  HD (Alternatif 1)
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:TV 8 Buçuk HD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:TV 8 Buçuk HD (Alternatif 1)
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Teve 2 HD
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Teve 2 HD (Alternatif 1)
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 100 HD
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 100 HD (Alternatif 1)
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 8 HD (Alternatif 1)
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_Rwe.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 FHD 337667
+https://tv.cdn-vizi.workers.dev/?ID=1
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png?v=638671713518783129" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 HD
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png?v=638671713518783129" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 HD 48
+http://104.238.23.221/dsgo.php?id=245943
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_27m.png" group-title="Ulusal Kanallar - Telegram @viziago", TV 100
+https://tv.cdn-vizi.workers.dev/?ID=36
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 100 (1080p)
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/tv8/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8 (1080p)
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8,5
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://patronsports2.cfd/tv85/mono.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3e7hv4zG4AuAWSfRof4XxDG3bf6pZSm1ApOoONJeGaJeJBrjEAjWnHAi3&s=10" group-title="Ulusal Kanallar - Telegram @viziago", Teve 2 -A-
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 8 -A-
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 8 -B-
+https://mss.ayakkabiparti.lol/tv8/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 85 -A-
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 85 -B-
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TV%20100.png" group-title="Ulusal Kanallar - Telegram @viziago", tv 100 (Alternatif 1)
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/beyaz_tv_j7S.png" group-title="Ulusal Kanallar - Telegram @viziago", Beyaz TV
 https://tv.cdn-vizi.workers.dev/?ID=9
@@ -234,30 +329,6 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zXpV66SW/Poster-Maker-04032026-085818.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Beyaz Tv -A-
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-95" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Teve2 (1080p)
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-174" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tlc_y3J.png" group-title="Ulusal Kanallar - Telegram @viziago", TLC Turkiye
-https://tv.cdn-vizi.workers.dev/?ID=32
-
-#EXTINF:-1 tvg-id="turksatkablo-174" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tlc HD
-https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
-
-#EXTINF:-1 tvg-id="turksatkablo-174" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tlc HD (Alternatif 1)
-https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
-
-#EXTINF:-1 tvg-id="turksatkablo-180" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/DMAX.png" group-title="Ulusal Kanallar - Telegram @viziago", DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
-
-#EXTINF:-1 tvg-id="turksatkablo-180" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dmax_Mi8.png" group-title="Ulusal Kanallar - Telegram @viziago", DMax (Alternatif 1)
-https://tv.cdn-vizi.workers.dev/?ID=33
-
-#EXTINF:-1 tvg-id="turksatkablo-180" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Dmax  HD
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
-
-#EXTINF:-1 tvg-id="turksatkablo-180" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Dmax  HD (Alternatif 1)
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/t3Y6xchQ78uqapvoIjVTxgTMUZr0lIjZDWL_7bLrx8ki_6nmDCsvZwjJ9pDw80nS9uE" group-title="Ulusal Kanallar - Telegram @viziago", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -760,18 +831,6 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/s
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Szc Tv HD (Alternatif 1)
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/szc_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:TV 8 Buçuk HD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:TV 8 Buçuk HD (Alternatif 1)
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
-
-#EXTINF:-1 tvg-id="turksatkablo-95" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Teve 2 HD
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-95" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Teve 2 HD (Alternatif 1)
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/999a12b9-6679-4621-8096-c88a76b33e92.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tivi 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -802,12 +861,6 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Trt Türk HD
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 100 HD
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 100 HD (Alternatif 1)
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
@@ -816,12 +869,6 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 5  HD (Alternatif 1)
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 8 HD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tv 8 HD (Alternatif 1)
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" group-title="Ulusal Kanallar - Telegram @viziago", TR:Tvnet HD
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -895,23 +942,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bNyKdtxt/Poster-Maker-04032026-084524.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TRT Türk -A-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_Rwe.png" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 FHD 337667
-https://tv.cdn-vizi.workers.dev/?ID=1
-
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png?v=638671713518783129" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 HD
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-144" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png?v=638671713518783129" group-title="Ulusal Kanallar - Telegram @viziago", TRT1 HD 48
-http://104.238.23.221/dsgo.php?id=245943
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 1 (720p)
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_27m.png" group-title="Ulusal Kanallar - Telegram @viziago", TV 100
-https://tv.cdn-vizi.workers.dev/?ID=36
-
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 100 (1080p)
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 24 (720p)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
@@ -942,20 +974,6 @@ http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 52 (720p) [Not 24/7] (Alternatif 1)
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/tv8/mono.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8 (1080p)
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8 (1080p) [Not 24/7]
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-188" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV 8,5
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://patronsports2.cfd/tv85/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
@@ -999,9 +1017,6 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-95" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3e7hv4zG4AuAWSfRof4XxDG3bf6pZSm1ApOoONJeGaJeJBrjEAjWnHAi3&s=10" group-title="Ulusal Kanallar - Telegram @viziago", Teve 2 -A-
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
@@ -1019,18 +1034,6 @@ https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Trakya Türk TV (720p)
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 8 -A-
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 8 -B-
-https://mss.ayakkabiparti.lol/tv8/index.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 85 -A-
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" group-title="Ulusal Kanallar - Telegram @viziago", Tv 85 -B-
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_e4E.png" group-title="Ulusal Kanallar - Telegram @viziago", Ulke TV
 https://tv.cdn-vizi.workers.dev/?ID=42
@@ -1188,9 +1191,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Ulusal Kanallar - Telegram @viziago", tjktv
 https://tjktv-live.tjk.org/tjktv.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TV%20100.png" group-title="Ulusal Kanallar - Telegram @viziago", tv 100 (Alternatif 1)
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Ulusal Kanallar - Telegram @viziago", tvnet (Alternatif 1)
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
@@ -1224,60 +1224,60 @@ https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="Ulusal Kanallar - Telegram @viziago", İlm Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:Trt Spor HD
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:Trt Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:Trt Spor Yıldız HD
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:Trt Spor Yıldız HD
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT SPOR YILDIZ
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/trtyildiz/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (Alternatif 2)
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (Alternatif 2)
 http://104.238.23.221/dsgo.php?id=245946
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (Alternatif 3)
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (Alternatif 3)
 https://tv.cdn-vizi.workers.dev/?ID=20
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor (1080p) [Geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yildiz
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yildiz
 https://tv.cdn-vizi.workers.dev/?ID=54
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yildiz (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yildiz (1080p) [Geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yıldız (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TRT Spor Yıldız (Alternatif 1)
 http://104.238.23.221/dsgo.php?id=246177
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A SPOR
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A SPOR
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://patronsports2.cfd/as/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A SPOR (Alternatif 1)
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A SPOR (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://www.atomsportv515.top
 https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A Spor (Alternatif 2)
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A Spor (Alternatif 2)
 http://104.238.23.221/dsgo.php?id=246135
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A Spor (Alternatif 3)
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", A Spor (Alternatif 3)
 https://tv.cdn-vizi.workers.dev/?ID=19
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:A Spor HD
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:A Spor HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:A Spor HD (Alternatif 1)
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor Kanalları - Telegram @viziago", TR:A Spor HD (Alternatif 1)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cbc_sport_92O.png" group-title="Spor Kanalları - Telegram @viziago", CBC Sport
@@ -1323,23 +1323,32 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/b/0t/246108/logo.png?v=638671714934540111" group-title="Spor Kanalları - Telegram @viziago", Tay TV
 http://104.238.23.221/dsgo.php?id=246108
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Sinema & Dizi - Telegram @viziago", VIYANATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Sinema & Dizi - Telegram @viziago", VIYANATV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Sinema & Dizi - Telegram @viziago", Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Sinema & Dizi - Telegram @viziago", Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbF7L.png" group-title="Sinema & Dizi - Telegram @viziago", 4. Max Stars
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbF7L.png" group-title="Sinema & Dizi - Telegram @viziago", 4. Max Stars
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxstar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://resmim.net/cdn/2026/08/07/EelEGC.png" group-title="Sinema & Dizi - Telegram @viziago", 48. Star Movies
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://resmim.net/cdn/2026/08/07/EelEGC.png" group-title="Sinema & Dizi - Telegram @viziago", 48. Star Movies
 https://stream41.radyotelekom.com.tr/stream/m3u8/e1723d5fa4ae557850ec082f00a82e1d/e1723d5fa4ae557850ec082f00a82e1d.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://resmim.net/cdn/2026/08/07/Eelkr1.png" group-title="Sinema & Dizi - Telegram @viziago", 49. Star Horror
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://resmim.net/cdn/2026/08/07/Eelkr1.png" group-title="Sinema & Dizi - Telegram @viziago", 49. Star Horror
 https://stream41.radyotelekom.com.tr/stream/m3u8/c40e203f317f6d5709c493f714ac8d69/c40e203f317f6d5709c493f714ac8d69.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://resmim.net/cdn/2026/08/07/EekOoT.png" group-title="Sinema & Dizi - Telegram @viziago", 6. Vizon Stars
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://resmim.net/cdn/2026/08/07/EekOoT.png" group-title="Sinema & Dizi - Telegram @viziago", 6. Vizon Stars
 https://stream41.radyotelekom.com.tr/stream/m3u8/334a629f93a4770a1a0dc0e9d674ca1f/334a629f93a4770a1a0dc0e9d674ca1f.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv 1001
+https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv 1002
+https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TR:Sinema TV 8 HD
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema & Dizi - Telegram @viziago", SIYAHBEYAZAŞK
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
@@ -1595,12 +1604,6 @@ https://lord.ayakkabiparti.lol/sinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv (Alternatif 1)
 https://mss.ayakkabiparti.lol/sinema/index.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv 1001
-https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv 1002
-https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839032.png" group-title="Sinema & Dizi - Telegram @viziago", Sinema Tv 2
 https://lord.ayakkabiparti.lol/sinema2/index.m3u8
 
@@ -1649,9 +1652,6 @@ https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TR:Sinema TV 7 HD
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-134" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TR:Sinema TV 8 HD
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", TR:Sinema TV 9 HD
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 
@@ -1679,19 +1679,19 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Sinema & Dizi - Telegram @viziago", Şaban TV
 https://canaktv.sabantv.net:3996/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-21" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="Belgesel - Telegram @viziago", TR:Trt Belgesel HD
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="Belgesel - Telegram @viziago", TR:Trt Belgesel HD
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-21" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="Belgesel - Telegram @viziago", TR:Trt Belgesel HD (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="Belgesel - Telegram @viziago", TR:Trt Belgesel HD (Alternatif 1)
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-21" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_belgesel_6fG.png" group-title="Belgesel - Telegram @viziago", TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_belgesel_6fG.png" group-title="Belgesel - Telegram @viziago", TRT Belgesel
 https://tv.cdn-vizi.workers.dev/?ID=31
 
-#EXTINF:-1 tvg-id="turksatkablo-21" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Belgesel.png" group-title="Belgesel - Telegram @viziago", TRT Belgesel (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Belgesel.png" group-title="Belgesel - Telegram @viziago", TRT Belgesel (Alternatif 1)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-21" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Belgesel - Telegram @viziago", TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Belgesel - Telegram @viziago", TRT Belgesel (720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/Discovery%20Channel.png" group-title="Belgesel - Telegram @viziago", Discovery Channel
@@ -1751,7 +1751,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/6868/inde
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Belgesel - Telegram @viziago", Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Müzik - Telegram @viziago", Michael Jackson music star
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Müzik - Telegram @viziago", Michael Jackson music star
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://icy.unitedradio.it/um2908.mp3
 
@@ -2089,9 +2089,110 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Müzik - Telegram @viziago", powertv
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png" group-title="Haber Kanalları - Telegram @viziago", Fox News Radio
+#EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png" group-title="Haber Kanalları - Telegram @viziago", Fox News Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" group-title="Haber Kanalları - Telegram @viziago", TR:Trt Haber  HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Haber.png" group-title="Haber Kanalları - Telegram @viziago", TRT Haber
+http://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/c/Bc/246024/logo.png?v=638671714191721394" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (Alternatif 1)
+http://104.238.23.221/dsgo.php?id=246024
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_AIf.png" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (Alternatif 2)
+https://tv.cdn-vizi.workers.dev/?ID=15
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/A%20Haber.png" group-title="Haber Kanalları - Telegram @viziago", A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_Evs.png" group-title="Haber Kanalları - Telegram @viziago", A Haber (Alternatif 1)
+https://tv.cdn-vizi.workers.dev/?ID=14
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", ON Medya Haber (720p) [Geo-blocked]
+http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber Kanalları - Telegram @viziago", TR:A Haber HD
+https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber Kanalları - Telegram @viziago", TR:A Haber HD (Alternatif 1)
+https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", a HABER (Alternatif 2)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Haber Kanalları - Telegram @viziago", GÖPSENTV
+https://canli.gopsentv.com:3604/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="Haber Kanalları - Telegram @viziago", KNTV
+https://cdn4.yayin.com.tr/kntv/video.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/NTV.png" group-title="Haber Kanalları - Telegram @viziago", NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/A/Bt/246120/logo.png?v=638671715037303020" group-title="Haber Kanalları - Telegram @viziago", NTV (Alternatif 1)
+http://104.238.23.221/dsgo.php?id=246120
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ntv_60R.png" group-title="Haber Kanalları - Telegram @viziago", NTV (Alternatif 2)
+https://tv.cdn-vizi.workers.dev/?ID=17
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="Haber Kanalları - Telegram @viziago", NTV Radyo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://46.20.3.207/listen.m3u
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0nxQCrB4sc2TAYUYGjSWp_gv1BTT0n7mwdJKvMgUAofyG0va80F9mtk&s=10" group-title="Haber Kanalları - Telegram @viziago", Ntv Tv
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber Kanalları - Telegram @viziago", TR:Ntv HD
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber Kanalları - Telegram @viziago", TR:Ntv HD (Alternatif 1)
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Haber Kanalları - Telegram @viziago", mercantv
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Haber Kanalları - Telegram @viziago", tontv
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/HABERTÜRK%20TV.png" group-title="Haber Kanalları - Telegram @viziago", HABERTÜRK TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", Habertürk TV (1080p)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", Habertürk TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/CNN%20Türk.png" group-title="Haber Kanalları - Telegram @viziago", CNN Türk
+http://46.32.176.50/cnnturk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/Cg/245940/logo.png?v=638671713494111482" group-title="Haber Kanalları - Telegram @viziago", CNN Türk (Alternatif 1)
+http://104.238.23.221/dsgo.php?id=245940
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber Kanalları - Telegram @viziago", TR:Cnn Türk HD
+https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber Kanalları - Telegram @viziago", TR:Cnn Türk HD (Alternatif 1)
+https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://yt3.googleusercontent.com/PG-p8UqeLTi2AmYA6_8UTDC9Qvj0eNhxSd4Nftlw1-ErEnE1tx8qbo3rPDXgZDhGZi5RJ_M=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları - Telegram @viziago", Tv100
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_Zrw.png" group-title="Haber Kanalları - Telegram @viziago", CNN Turk
+https://tv.cdn-vizi.workers.dev/?ID=12
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLfQhyWrJWGul6ua0TCgofg950fokEWtVxsKlia_R4w&s" group-title="Haber Kanalları - Telegram @viziago", HaberTurk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
@@ -2101,101 +2202,6 @@ https://live01.iha.tv/webabone/live2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKwYH1RAL7gULw1_pk5L_gBVZWybPs6JfCZ-s0FhIpKkZkGm5QFhJZi0&s=10" group-title="Haber Kanalları - Telegram @viziago", İha2 (Alternatif 1)
 https://live01.iha.tv/webabone/live2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-30" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" group-title="Haber Kanalları - Telegram @viziago", TR:Trt Haber  HD
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-30" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Haber.png" group-title="Haber Kanalları - Telegram @viziago", TRT Haber
-http://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-30" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/c/Bc/246024/logo.png?v=638671714191721394" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (Alternatif 1)
-http://104.238.23.221/dsgo.php?id=246024
-
-#EXTINF:-1 tvg-id="turksatkablo-30" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_AIf.png" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (Alternatif 2)
-https://tv.cdn-vizi.workers.dev/?ID=15
-
-#EXTINF:-1 tvg-id="turksatkablo-30" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/A%20Haber.png" group-title="Haber Kanalları - Telegram @viziago", A Haber
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_Evs.png" group-title="Haber Kanalları - Telegram @viziago", A Haber (Alternatif 1)
-https://tv.cdn-vizi.workers.dev/?ID=14
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", ON Medya Haber (720p) [Geo-blocked]
-http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber Kanalları - Telegram @viziago", TR:A Haber HD
-https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber Kanalları - Telegram @viziago", TR:A Haber HD (Alternatif 1)
-https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-160" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", a HABER (Alternatif 2)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Haber Kanalları - Telegram @viziago", GÖPSENTV
-https://canli.gopsentv.com:3604/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="Haber Kanalları - Telegram @viziago", KNTV
-https://cdn4.yayin.com.tr/kntv/video.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/NTV.png" group-title="Haber Kanalları - Telegram @viziago", NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/A/Bt/246120/logo.png?v=638671715037303020" group-title="Haber Kanalları - Telegram @viziago", NTV (Alternatif 1)
-http://104.238.23.221/dsgo.php?id=246120
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ntv_60R.png" group-title="Haber Kanalları - Telegram @viziago", NTV (Alternatif 2)
-https://tv.cdn-vizi.workers.dev/?ID=17
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", NTV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="Haber Kanalları - Telegram @viziago", NTV Radyo
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://46.20.3.207/listen.m3u
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0nxQCrB4sc2TAYUYGjSWp_gv1BTT0n7mwdJKvMgUAofyG0va80F9mtk&s=10" group-title="Haber Kanalları - Telegram @viziago", Ntv Tv
-https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber Kanalları - Telegram @viziago", TR:Ntv HD
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber Kanalları - Telegram @viziago", TR:Ntv HD (Alternatif 1)
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Haber Kanalları - Telegram @viziago", mercantv
-https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-81" tvg-logo="https://play-lh.googleusercontent.com/0u16GTaf_zDdXnZqb0KCpSWiQ10fGjOwhblxmoS67QHW0my1mCUzou6bCczQVf2RjQA=s200" group-title="Haber Kanalları - Telegram @viziago", tontv
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-87" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/HABERTÜRK%20TV.png" group-title="Haber Kanalları - Telegram @viziago", HABERTÜRK TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-87" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", Habertürk TV (1080p)
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-87" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", Habertürk TV (720p) [Not 24/7]
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-158" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/CNN%20Türk.png" group-title="Haber Kanalları - Telegram @viziago", CNN Türk
-http://46.32.176.50/cnnturk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-158" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/Cg/245940/logo.png?v=638671713494111482" group-title="Haber Kanalları - Telegram @viziago", CNN Türk (Alternatif 1)
-http://104.238.23.221/dsgo.php?id=245940
-
-#EXTINF:-1 tvg-id="turksatkablo-158" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber Kanalları - Telegram @viziago", TR:Cnn Türk HD
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-158" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber Kanalları - Telegram @viziago", TR:Cnn Türk HD (Alternatif 1)
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-179" tvg-logo="https://yt3.googleusercontent.com/PG-p8UqeLTi2AmYA6_8UTDC9Qvj0eNhxSd4Nftlw1-ErEnE1tx8qbo3rPDXgZDhGZi5RJ_M=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları - Telegram @viziago", Tv100
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/24_tv_wsF.png" group-title="Haber Kanalları - Telegram @viziago", 24 TV
 https://tv.cdn-vizi.workers.dev/?ID=37
@@ -2342,9 +2348,6 @@ https://tunein.cdnstream1.com/2868_96.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-158" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_Zrw.png" group-title="Haber Kanalları - Telegram @viziago", CNN Turk
-https://tv.cdn-vizi.workers.dev/?ID=12
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/f9aPnIslVlZjqcnEV5m0PZ4aMCcfYnuGxj9HgzElk_zcMmb_CmdKGSXbV3wehrsR2vnHb7EJ=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları - Telegram @viziago", Cnbc-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
@@ -2422,9 +2425,6 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Haber Kanalları - Telegram @viziago", Haber61 TV (720p) [Not 24/7] (Alternatif 1)
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="turksatkablo-87" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLfQhyWrJWGul6ua0TCgofg950fokEWtVxsKlia_R4w&s" group-title="Haber Kanalları - Telegram @viziago", HaberTurk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="Haber Kanalları - Telegram @viziago", LBC London News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -2580,20 +2580,23 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/cqvCKfj6muN4mbBdk4LkQeWzr7xau-Tl4tR7Q0168xxH5jfGY0paL-N0MyKcDORoZ9F5xRT9Uw=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları - Telegram @viziago", İlke Tv (Alternatif 1)
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim - Telegram @viziago", TR:Trt Çocuk  HD
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim - Telegram @viziago", TR:Trt Çocuk  HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim - Telegram @viziago", TR:Trt Çocuk  HD (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim - Telegram @viziago", TR:Trt Çocuk  HD (Alternatif 1)
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://i.postimg.cc/Wp8pSKvN/Poster-Maker-04032026-101226.jpg" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Çocuk
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://i.postimg.cc/Wp8pSKvN/Poster-Maker-04032026-101226.jpg" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Çocuk (720p)
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Çocuk (720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Çocuk.png" group-title="Çocuk & Eğitim - Telegram @viziago", Trt Çocuk (Alternatif 1)
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/image/TRT%20Çocuk.png" group-title="Çocuk & Eğitim - Telegram @viziago", Trt Çocuk (Alternatif 1)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_cocuk_H2e.png" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Cocuk
+https://tv.cdn-vizi.workers.dev/?ID=21
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/minika_cocuk_yet.png" group-title="Çocuk & Eğitim - Telegram @viziago", Minika Cocuk
 https://tv.cdn-vizi.workers.dev/?ID=22
@@ -2664,9 +2667,6 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png" group-title="Çocuk & Eğitim - Telegram @viziago", TR:Trt Diyanet Çocuk HD (Alternatif 1)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-99" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_cocuk_H2e.png" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Cocuk
-https://tv.cdn-vizi.workers.dev/?ID=21
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_cocuk_czV.png" group-title="Çocuk & Eğitim - Telegram @viziago", TRT Diyanet Çocuk
 https://tv.cdn-vizi.workers.dev/?ID=24
 
@@ -2688,27 +2688,27 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="Çocuk & Eğitim - Telegram @viziago", Çocuk Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
 
-#EXTINF:-1 tvg-id="turksatkablo-124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Radyo - Telegram @viziago", Latvijas Radio 2
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Atv_logo.svg/200px-Atv_logo.svg.png" group-title="Radyo - Telegram @viziago", Latvijas Radio 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://lr2mp1.latvijasradio.lv:8002/;
 
-#EXTINF:-1 tvg-id="turksatkablo-130" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="Radyo - Telegram @viziago", Panda Show Radio - Online - El Panda Zambrano - Ciudad de México
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="Radyo - Telegram @viziago", Panda Show Radio - Online - El Panda Zambrano - Ciudad de México
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://65.21.202.84:8062/
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="Radyo - Telegram @viziago", MegaStarFM
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="Radyo - Telegram @viziago", MegaStarFM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" group-title="Radyo - Telegram @viziago", Star FM Manila
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" group-title="Radyo - Telegram @viziago", Star FM Manila
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream-13.zeno.fm/g1pmt17nz9duv
 
-#EXTINF:-1 tvg-id="turksatkablo-89" tvg-logo="https://abs.twimg.com/favicons/twitter.2.ico" group-title="Radyo - Telegram @viziago", TRANCE IS STAR RADIO
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://abs.twimg.com/favicons/twitter.2.ico" group-title="Radyo - Telegram @viziago", TRANCE IS STAR RADIO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://myradio24.org/tisradio
 
-#EXTINF:-1 tvg-id="turksatkablo-93" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Radyo - Telegram @viziago", Radio Nowy Świat 256k
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="Radyo - Telegram @viziago", Radio Nowy Świat 256k
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://go-audio.toya.net.pl/63214
 
