@@ -15452,6 +15452,12 @@ http://193.47.62.50/hls/dyyyQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.50/hls/FZZZQQQQZAAA.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="BDxTV - Telegram @viziago", Tennis WTA Seoul
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/abbbQQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="BDxTV - Telegram @viziago", Tigres UANL vs Puebla
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -38186,790 +38192,780 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Xr3dtv - Telegram @viziago", Zylo Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [AFL] Fox Footy - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [AFL] Fox Footy - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/8CTGNR4z2hMc0JeQ0b-ybpIO9dalD1VR01XnG0wEE8IIha2OucXE6c0.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/F6euCiMQk67wbrH95ZtlUsiCJbuw6O8wkdUwHmDS7TEdf453KCyqCKQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnixcYFCD64Q3ECRAATEBBCIDxnCH0EKTPii5gyq+vNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Abilene Christian vs Mercer - Server 1 (Worker HLS) • LIVE 07:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/RSjcWTQDSQFFUBMHkVxrp5bhGJb6W81Ns7coTDH4OQDfRE9boiT6qig0A05OnbZueGJtXlXroINr61tc2DbQdI2Z_a3v_klSmnjUcMqpdpoUYsY0jSCea2Kku-Gwoww.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/RF-58YD7X9NCk7uV1OuZrgf8rXfs7yhf7SpRx1G8ejd2KwFPB1M00lAowZPDlinO68uP4zTz6Rqdaz3qAX015Unnl4YzXwoVNg6I70yd7zLXCf8HpKsTth6mSkBgRds.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxitXnzAoQ3ECRAATEBBCJEBnXomE1TPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Fresno State vs Rice - Server 1 (Worker HLS) • LIVE 09:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ndb8MigbWAaQcnbRlVxKLqMGMFHPoEiVUdOGLIjvmpz1VDoikMm8cg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/RdLRV9RS-cHIo5wcB-Y_Ab8gU50Rz_J0liYwK0gcKych3jPXgPZ33A.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxitXnzAoQ3ECRAATEBBCJEBnXomE1TPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Fresno State vs Rice - Server 1 (Worker HLS) • LIVE 09:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ndb8MigbWAaQcnbRlVxKLqMGMFHPoEiVUdOGLIjvmpz1VDoikMm8cg.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/outdlf1564357157.png" group-title="Xr3dtv - Telegram @viziago", [American-Football] Missouri State Bears - SMU Mustangs - Server 1 (Worker HLS) • LIVE 10:00
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/RE6qJh3CiYZMRS8c8qTTIpG9Xs3DnUXUtIfKUZf0bxsRM9FL9TzjFA.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/outdlf1564357157.png" group-title="Xr3dtv - Telegram @viziago", [American-Football] Missouri State Bears - SMU Mustangs - Server 1 (Worker HLS) • LIVE 10:00 (Alternatif 1)
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/RE6qJh3CiYZMRS8c8qTTIpG9Xs3DnUXUtIfKUZf0bxsRM9FL9TzjFA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/RdLRV9RS-cHIo5wcB-Y_Ab8gU50Rz_J0liYwK0gcKych3jPXgPZ33A.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ry+FAAwht3EABMQEXPpCJEObSAIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Nevada vs Air Force - Server 1 (Worker HLS) • LIVE 09:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7eZVik4QnOCK4vi8wCeslBFjsyazWpyAmNle3E08we6CI_EEebblzg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/QAG5JCJKnKd4to5RM5R67lUYEg50c0uxNsn6kCXopckTC72JS-0xPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ry+FAAwht3EABMQEXPpCJEObSAIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Nevada vs Air Force - Server 1 (Worker HLS) • LIVE 09:30 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7eZVik4QnOCK4vi8wCeslBFjsyazWpyAmNle3E08we6CI_EEebblzg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/QAG5JCJKnKd4to5RM5R67lUYEg50c0uxNsn6kCXopckTC72JS-0xPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Stanford vs Georgia Tech - Server 1 (Worker HLS) • LIVE 09:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/JznpHGs217cGfBiLocKzzLWIpfEOitxA-4Liym7i_dQj0KupJ_5maA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/oy46XBmAfR_s-ZiMZoYtmf_e0CITuSqEebUzDvL0tiILPdjnJwM1-w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Stanford vs Georgia Tech - Server 1 (Worker HLS) • LIVE 09:30 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/JznpHGs217cGfBiLocKzzLWIpfEOitxA-4Liym7i_dQj0KupJ_5maA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/oy46XBmAfR_s-ZiMZoYtmf_e0CITuSqEebUzDvL0tiILPdjnJwM1-w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Washington vs Minnesota - Server 1 (Worker HLS) • LIVE 10:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/iCDpI59UOsArRnZaMTn3VEc8d-Mbf-GMqEhSLy-GZA7NhQ4h8AevRg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/xomANUPSnMwTAyPBQQDQu9HANEs7RifXex2StqBwPk_xJ-ejeze9lg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [American-Football] Washington vs Minnesota - Server 1 (Worker HLS) • LIVE 10:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/iCDpI59UOsArRnZaMTn3VEc8d-Mbf-GMqEhSLy-GZA7NhQ4h8AevRg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/xomANUPSnMwTAyPBQQDQu9HANEs7RifXex2StqBwPk_xJ-ejeze9lg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Athletics vs Houston Astros - Server 1 (Worker HLS) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/A5skgiAPsXxrJX94GgT1Qoefj56_D0SEts9KbkTxkNIknjYB4YzCueL1Jh-j-y4D223oYacmsFb35-lKRRySNl74xA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/NP_wHwXwuCTNz0uXfwJtBoPbyI1aVnX9Eaq32o8TnmB8riz83SAfPUiyJNNHAWqrjNgcXn0_XOMhD1TRRp2CmJp4-A.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Athletics vs Houston Astros - Server 2 (MLB League Pass) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/t775vlkVkj9EcMerGF7Q6wi-Jk1Xe0lPopO95wE.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/t-iZdEPk-R-vqd2eK2G2omQtYJzYim5bX3AQS-Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Athletics vs Houston Astros - Server 3 (NBCS California USA) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/XYpmDdUTLeI5fGv8L0M2V1hnXAkJ13yANymNnMA90Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Vk8sw-BDp1xLojHJ7KzZCpSe-I2IuAl1eKqdQ5RkMg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Athletics vs Houston Astros - Server 4 (Space City Home Network) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/J_H6ZvVQfHma_Afmoa_5zbEPnjL82Rvv_z8-UujBtQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Philadelphia Phillies vs Tampa Bay Rays - Server 1 (Worker HLS) • LIVE 06:15
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/M_lRYSNeISswalyK4uObG0k7Mcj821FSYuGeTgfgm1KB1D3sNWgdblbsPbYp83sR7NVMAqzAH6gINtBT5Rhncw.m3u8
-
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Philadelphia Phillies vs Tampa Bay Rays - Server 2 (MLB League Pass) • LIVE 06:15
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5xGHPGs2ClZRCzbKXJ00oRPEUjA3nDghntz1xF5Z.m3u8
-
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Philadelphia Phillies vs Tampa Bay Rays - Server 3 (beIN Sports 4 Max France) • LIVE 06:15
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/o_lRemNPCDj48b-Y2SoDJb0EmUdyTmwkpSDyuQM3Sw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/CsVeLdgmcYNegzaqh97LjVEqHEkg5E-ssmFGeEC7QQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] San Diego Padres vs Arizona Diamondbacks - Server 1 (Worker HLS) • LIVE 07:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/32C_K3X4YxPJxu30N4wio3LOsSO9zMO8ihoM2o4-I35Sn5jjXttLKJHE6Io-uo9YkghluAjXfj8X8hqeVzH9uo9SBibO1Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/q09RCfwM1vKB1xl2nDNRP4U4qnX7UZs7SdwzZISbI6mZyiYlXmNNHBOdgVVa_aZiq_yyB8ddQYL7WiyqmNYfbcvMtHcCig.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] San Diego Padres vs Arizona Diamondbacks - Server 2 (MLB League Pass) • LIVE 07:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/-bYGie_4mqL0W6KbPU5IFo-1aKl26axuFwzpOsDBsQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/WXAhcEWfGvRKhQ3drjFnhf3_zHA1kYWGonFf6Lcydg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] San Diego Padres vs Arizona Diamondbacks - Server 3 (TNT Sports 4 UK) • LIVE 07:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Vw78QTe_UsxMK415kd5moLoFKSv47u4-9tg7qq8_.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/yiNaokRUBjG1dP-tQu2Y4goaEEWB-9BpwXAXJUN1.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Seattle Mariners vs Los Angeles Angels - Server 1 (Worker HLS) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/BK-3FoOlHv-tliAxtU7dp7pgCDz4AhZYnp8YMv9RQ8PTyliqE1Fyg3isws0Iw5xBjSh2cK7mlyp57rjBEMOMOzLA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rCHxHNgSP_8ndZzvC6MefMx6B7Qz7CN2bxT9LKbQWnrtFgoeBlQeuzojP8KBiQuCNRl4UdnkMr5qsp-6V9mBxmE1.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Xr3dtv - Telegram @viziago", [Baseball] Seattle Mariners vs Los Angeles Angels - Server 2 (MLB League Pass) • LIVE 08:40
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/6DbzGVbNRHPTSNLNbxbcw39DeMqa8Sk3ooKEWHV8.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/uW5aZ4533NzuLz8Lmuwlf_NkbOKdaWEJSNO8a_dZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zp72061755701355.png" group-title="Xr3dtv - Telegram @viziago", [Basketball] Adelaide 36ers vs. Cairns Taipans - Server 1 (Worker HLS) • LIVE 13:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/M51HhMkZiMpcDFZINLGsdPyWX3bDRlKely0W0DKdabaFKi5LlfhS7AKSzOj1axxpo5s.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/T2Osz9CixJfScN0E-qFV0UFC3H8V2Xgu2OSqcP--9jjafHcqW24TG3zIRSUENg1bs7Y.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zp72061755701355.png" group-title="Xr3dtv - Telegram @viziago", [Basketball] Adelaide 36ers vs. Cairns Taipans - Server 1 (Worker HLS) • LIVE 13:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/M51HhMkZiMpcDFZINLGsdPyWX3bDRlKely0W0DKdabaFKi5LlfhS7AKSzOj1axxpo5s.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/T2Osz9CixJfScN0E-qFV0UFC3H8V2Xgu2OSqcP--9jjafHcqW24TG3zIRSUENg1bs7Y.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Cricket] Fox Cricket - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Cricket] Fox Cricket - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/YusD8KDUkZjAVKYrQB_oPzW7EOhEJGoG74QED7vsvONComw_nfv1q9Hjow.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/3VpwKJCCmBh5YcBkgsxiX2zgNnYQB1karKmYwPuvT57PWfwYV25tPUOAGw.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/dcMfDoVPWzMjjKA8XxoQ38J7xTwxacm4MKnmCWSBMCwErg3zPVA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/kMrozDA9E0wzcCooilun3hC1f33yLhCcaD_hZuEezw6aYOlUBrY.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 2 (Willow 2 EN) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 1 (Worker HLS) • LIVE 14:46 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/lBK_9_APMSFFFctyXn8VFOMb_n67C6gnT_NSb8zNxao4P-qyQzYkXA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/kMrozDA9E0wzcCooilun3hC1f33yLhCcaD_hZuEezw6aYOlUBrY.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 3 (Willow Sports EN) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 2 (Willow 2 EN) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xoFvrvtTQQznphHmS7EtN6Iv9HvkEvbhuBFHqVmb_GghKSfVDK6dj8w0bowC.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/LYjzG7yrK8Nr-UTKpTUBPaHi8FsUiou4bC01hy0c2IdTY3MLobrXOA.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 2 (Willow 2 EN) • LIVE 14:46 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://damitv.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/LYjzG7yrK8Nr-UTKpTUBPaHi8FsUiou4bC01hy0c2IdTY3MLobrXOA.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 3 (Willow Sports EN) • LIVE 14:46
+#EXTVLCOPT:http-referrer=https://damitv.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/LsIMYRqsjM8CxsgJveZsPOMpPekdDsPYm67mhBGtPol1qLUJpFPOv44kS-kk.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/b7rb351723733617.png" group-title="Xr3dtv - Telegram @viziago", [Cricket] Willow - Server 3 (Willow Sports EN) • LIVE 14:46 (Alternatif 1)
+#EXTVLCOPT:http-referrer=https://damitv.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/LsIMYRqsjM8CxsgJveZsPOMpPekdDsPYm67mhBGtPol1qLUJpFPOv44kS-kk.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvTYgYwAAwMQvEFhAptICOenmYplkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Xr3dtv - Telegram @viziago", [Fight] All Out - Server 1 (Worker HLS) • LIVE 07:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/P6l7JU1kchseo2tuLWVUzF3f26tFNa3mafUJLia6mq3YURO7wuutco-P13cEaRAXddey_FMcTzuiHMM8tQewwuqtNvZlyGQieBi-6DpUWQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/9MU6nGNpRPR8vk8AnApndHbQ7MjmCFsQIyg9Pfe_RrDVMlURpmsfsIswOsjI9yBH2JR8qOI-9Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvTYgYwAAwMQvEFhAptICOenmYplkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Xr3dtv - Telegram @viziago", [Fight] All Out - Server 1 (Worker HLS) • LIVE 07:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/P6l7JU1kchseo2tuLWVUzF3f26tFNa3mafUJLia6mq3YURO7wuutco-P13cEaRAXddey_FMcTzuiHMM8tQewwuqtNvZlyGQieBi-6DpUWQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/9MU6nGNpRPR8vk8AnApndHbQ7MjmCFsQIyg9Pfe_RrDVMlURpmsfsIswOsjI9yBH2JR8qOI-9Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvTYgYwAAwMQvEFhAptICOenmYplkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Xr3dtv - Telegram @viziago", [Fight] All Out - Server 1 (Worker HLS) • LIVE 07:00 (Alternatif 2)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/P6l7JU1kchseo2tuLWVUzF3f26tFNa3mafUJLia6mq3YURO7wuutco-P13cEaRAXddey_FMcTzuiHMM8tQewwuqtNvZlyGQieBi-6DpUWQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/9MU6nGNpRPR8vk8AnApndHbQ7MjmCFsQIyg9Pfe_RrDVMlURpmsfsIswOsjI9yBH2JR8qOI-9Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] Austin FC vs San Diego FC - Server 1 (Worker HLS) • LIVE 07:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kgNWbAw4VjXOwky0cmwQB5iyNTmCG74hTHuKSDtjfAJzZjN11VUik0E3RFgpPfExF-NLgHuwlHwyvBFaniLUj2jF5YzUzg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/F70D-ZiOTOF1wA2tWHBQn0VP109dA1uMgJdZCGwwGx13yTmdzqttVFIHKTW1WSU_IAGZwidw_wmGAOcUtBVJHN4SIEDNjQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcChDgNIbiBUgYuXYZCI9WvgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] FC Dallas vs Los Angeles FC - Server 1 (Worker HLS) • LIVE 07:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/uJvcfxxjwhQGiGQjfIarQXJ5S4xd4AbDlVYJY19GJqPBORiP4LN6t-ygF5GNpgKvfmx73wjnm_Si4IjhtIU.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/sTccdKXFRCtbfdYGko04GyXo8sbjEgZShPFMD8-XwmdYAX6CONJfyVAOmxm8ekMtUWkiYk1-zHlx6YlMhm0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [Football] Houston Dynamo vs Sporting Kansas City - Server 1 (Worker HLS) • LIVE 07:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/_uOZJPpKaULuTuRLJxDJzSLGaf_v-bo4KAZAKTgWeiBWGja215UcWkr_PcnJhTDSa_LaW05cflVEAh1y8D8g_TyF4fi6U1HlD3V-GYO_EGM2-Z7IhFk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/muXD_cXVICfwm0__vpyJcrZyrRVBsaF3iIRT9OW9lHAV0nZagSlL7IrPs3LbiUS7UZY7W_tn0GQ6yUJJV9WcEfAtgLW2Bn8R4SL9aLOY7YaEEpu-cyk.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] LA Galaxy vs Colorado Rapids - Server 1 (Worker HLS) • LIVE 09:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Yx_z9UQNgVk6uFP2U9Opk9Evp-suQxLHAk8-R_q_w3ZZbRFxWkaUqswv4qMLE_39IJXbfD-sbf-x3-RR8O79wYMu_Fxxd3tEjtJ_bY6hl_LcKuVlnU_zCSg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/roCNiv5mJT91cEuQoyBfvQBjCWYlXywViXnsoLAqrpN89Gu_OJDaGQzXFNElTj_73QzLkkMRtNqY6H0U1Q2XewcVg9CBYkl5Fp_5Uw61ABGbU4S6HNDI0oM.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] Nashville SC vs Toronto FC - Server 1 (Worker HLS) • LIVE 07:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/RiS2T66NKEgYKbuX8qOJv5T87aGEuSa3XQeQOdmdfp_3gR1S6IHs-aAirYxoKUwNfBpXykr_odgto7PPA_klQD1qQrsK4Bk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/_h-MBnsp6gRYTLJ95soqH7FafGS7T3rdXuzBv-pxrF-Q9o895PLV5LJ1JOJlxNryAXPtpSygwgfYBoSXOMT38PookelJxCo.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] Real Salt Lake vs New England Revolution - Server 1 (Worker HLS) • LIVE 08:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/2cUmocPvEhmXLmog9CzAZP2gKt67_l1FmQinSmZ9gg7vVcsPx3ZEo2CrbFnHM_N8aFZngxKf5owqeRwPVgb512Wj2w8-5kC3ugMXkl2b0r7iQkqG-Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/a1TTTxC7h2-Wmen9dE4i0nP73H9vIjoic1kZPQjXTlOEEAQ7kM4CRSPNHwN7Oq9HJ8wbvg3BHVn063Gg4vVytCH0CFVOfSC1MosNRIvAOB9xnduecg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] San Jose Earthquakes vs Portland Timbers - Server 1 (Worker HLS) • LIVE 09:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ED4smqJf04vouPmV9968lwpz1x-NCfIFD6fWuOyCJYooBnOn3IiyGphzNHSlv54e9cdoegLpBOGugMuS32_vb9swxwGXzhZNC_wUG-WnRrqVygnB5l8X5Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Ob1N59R1GDQ9lwL3ZmFfUrscwAntqKshoYSU-inpgN1bCWnIH2i-WkjZgBVxZdkQk0JmPm-ZB9LF9w6xzi_yb3k8jgdKN4mTrc4K0LnENwfkGrvc7yMB3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] Seattle Sounders vs Minnesota United - Server 1 (Worker HLS) • LIVE 07:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/vK6MgHEPcUMx1-OhJtasP5q314JB8w_y0NoDh8Zq0Jsj6A4fDOKJq9RKjE3CfPFb3wfBHBa0qFfNW-Nnr9UAZMQHW1wtmqdVTYToxvBquuIg1P6mizfb.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/PLTyHbuv43Z2spi9cvJ_6r5ixALtQPuoeo0yNpUDd8fV3X17VfAeSBEQdKhgg2qWsD7ZVOper-29yzg-gEwpHjBh3XD--CwrCcGwgBZWlEhVSCy0e02R.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="Xr3dtv - Telegram @viziago", [Football] Vancouver Whitecaps vs DC United - Server 1 (Worker HLS) • LIVE 09:30
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/40QGeQPQF5lqDEyYIxYDZUSbG28PvQPElHQ5z5x-rtSZ5jIJ21rSzBOeIE2nM7Ag6KfRKmN3zkCls589-AXYdqKNKAHzZoz1Xmid5gUpLtWRfXUylunaIFu9.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/duc3CsCeIzvsM-VOXYqJNTApdsW1D6DiY4yycNpV0yUq5dX0D2yWzcSTY5Ggc9NFkhaG7n4l1GaoQbzYHnN9sLlw_dM62rSyJPeWw5lHAeihiDgtYLdeGns3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [Golf] Sky Sports Golf - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [Golf] Sky Sports Golf - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Z9yTdSS765NRUwFIc198XWSRmL60ooPLkf_p9lYglwBJLaHR-WaUnvNpFJIW2YF4vQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/xf_ceipNWBfSeYFN9dlVlF8Ei37_gSgSAQqvYHltD1RD09fjWvIKRZqtC-4Y07fN5w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [Hockey] Vegas Golden Knights vs San Jose Sharks - Server 1 (Worker HLS) • LIVE 09:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/WLFuoYbr2cWE2_IDlRO_3AhGOR9ENN0tFt7a3_qLy_JtSbpxNESr0RGQwhLb55kKNIezHd4XJUBn4znmLpGml_TB95RcT-w39_fHTBJ0LO8.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6TbS57Z83vPpRmL4Iw_-0HhMrsgVBo2-Drx_M45EGgJVeBJ6olLORmBwWQElpvVFv5d8GGhLb0xgTq6c_7KOfF4zv3fN4gr9BATlGCfNluU.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [Hockey] Vegas Golden Knights vs San Jose Sharks - Server 1 (Worker HLS) • LIVE 09:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/WLFuoYbr2cWE2_IDlRO_3AhGOR9ENN0tFt7a3_qLy_JtSbpxNESr0RGQwhLb55kKNIezHd4XJUBn4znmLpGml_TB95RcT-w39_fHTBJ0LO8.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6TbS57Z83vPpRmL4Iw_-0HhMrsgVBo2-Drx_M45EGgJVeBJ6olLORmBwWQElpvVFv5d8GGhLb0xgTq6c_7KOfF4zv3fN4gr9BATlGCfNluU.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [NFL] NFL Network - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [NFL] NFL Network - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Oi5UFw87fR_Y-1DfM7LLSkSh8CG22Npg-SuwMrDQUZuB5X_xQrK1.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/IjhqNOjdYbqZfXZpAF_pc-Cee55hZgNz_BXg8jus9zwZru41oYi_.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zjh0jo1771495164.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 1 (Worker HLS) • LIVE 13:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/NiwGciOAtHWBwD3V0a-wawBnZyq858wY3-LwiYO6Yz8sDEaeZa3Cd4ifKZcegCjNSgg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ZY2sco8TP5S_ec87bTCBv2-27l1ti3etzApNxJTH-VkXwjmcF9guJBLU21AN42EL218.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zjh0jo1771495164.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 1 (Worker HLS) • LIVE 13:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/NiwGciOAtHWBwD3V0a-wawBnZyq858wY3-LwiYO6Yz8sDEaeZa3Cd4ifKZcegCjNSgg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ZY2sco8TP5S_ec87bTCBv2-27l1ti3etzApNxJTH-VkXwjmcF9guJBLU21AN42EL218.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 2 (Sky Sports+ UK) • LIVE 13:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/-VzwK94qrmswN91ft3pj_oG1YUlGvHe4-oRDcn_k.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/s7P_APeB-JNR2HcjmMZWJJBgQOW0tKM513PGv34e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 2 (Sky Sports+ UK) • LIVE 13:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/-VzwK94qrmswN91ft3pj_oG1YUlGvHe4-oRDcn_k.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/s7P_APeB-JNR2HcjmMZWJJBgQOW0tKM513PGv34e.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zjh0jo1771495164.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 3 (beIN Sports 1 France) • LIVE 13:00
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/vpfn5P9eBYySuOl_XfozJSErSnKs9TcHZ2qd14kfLA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/d2_XqINAa0x8-Akn0mj9WH3MloctXYA0fH9zOkeBmg.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/zjh0jo1771495164.png" group-title="Xr3dtv - Telegram @viziago", [NRL] Panthers vs. Knights - Server 3 (beIN Sports 1 France) • LIVE 13:00 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/vpfn5P9eBYySuOl_XfozJSErSnKs9TcHZ2qd14kfLA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/d2_XqINAa0x8-Akn0mj9WH3MloctXYA0fH9zOkeBmg.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Rugby] Fox League - Server 1 (Worker HLS) • LIVE 14:16
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Rugby] Fox League - Server 1 (Worker HLS) • LIVE 14:46
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kNtVyuUNoCKCqVROpdUMcARhpRnIYU1v9M3eqEqqhnIS9Mh4nor3_xOZ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6M929jAVB4qBhNRGFxjGsUepI97AumfTgbYN2pNo77VOJWVIjsTbFPgP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Rugby] Fox League - Server 1 (Worker HLS) • LIVE 14:16 (Alternatif 1)
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [Rugby] Fox League - Server 1 (Worker HLS) • LIVE 14:46 (Alternatif 1)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kNtVyuUNoCKCqVROpdUMcARhpRnIYU1v9M3eqEqqhnIS9Mh4nor3_xOZ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6M929jAVB4qBhNRGFxjGsUepI97AumfTgbYN2pNo77VOJWVIjsTbFPgP.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/gsfe5x1550073324.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Basketball] Sydney Kings vs. Illawarra Hawks - Server 1 (Worker HLS) • 15:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/eWuA_2HDL8boagNV07LkL64xuPaNJlZQ22R0a2A64WJhxa42QMAjQOI54HcCx8-jwzk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/8jeGCC_BLA7ZQHS8HMPmG32mzlAhqIlSBCXhJFPt_6e_iEIag7Gf8DRqIyphYRuzmnk.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ead095c8b977f65ff045aa19128d709-thumbnail.jpg" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Combat Sports] Inoue vs. Nasukawa 2 - Server 1 (Worker HLS) • 15:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/S7G2f464sACv2IWFK6_YloxzHDJJjytnoNeXL-g5uHSoGXk4V4L2PHnEw-5tr3ImPG-swIY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Imv4-JXXJ6E0X1FPXVdKA8LtqeavCOr52NU_YCO5ij3Q_IEBBzb-cv4Bl3KPPI7o0zECtjU.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 1 (Worker HLS) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/VNStM7EkO741BE0w8uR527mQMwAFQXQlwmAjMAWtrt1L1qSzyEiCIZ0h48QyqAw00Av7Q7K-JBIr1jQWycu75SkGr43ogzgM0UhH3C1iFILLOjfuFQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/PuvulJQtmzJoAVQvQZreOeDYYoESibNk1lNhhEvQu8jQSGM3nfOXebuxSuVIncnh9LLLmpWscVWLJfebVL4oKNLHH-RKJGz4FjX62_vhwzo7Dfdgjg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 10 (Diema Sport 2 Bulgaria) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/DSxEtX5xJULej214jX1Heh1pvXNZ6jPXqB_J3XDH7g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ql28iKTUQ4jm7Mn25ARl4esdi5omhfOL1ucGq2prwg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 11 (beIN Sports MENA 3) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/RcGSOYIjdYptMq0SMTZ6HSH5kF0qu6i48jMmDXfg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/2iMcoTLLPicmAXrVkO27DNbnlzqgmvzmCvSQu_1T.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 12 (Sportklub 5 Croatia) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/XEJ6Z29KPPqlusV1hYUuB1S8O60tZcItlO1pMNIydw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/IqCXOHhzuvB5M7KPUdx50Pk3JB8UlNW4PtxOTDKbIw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 13 (Event Stream) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/9xxoSTQVm3yyPFBB31CNwULo6sgaR1Mbmi6R844kdmw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/4SDz_FBJ9Ivtb_Eb6MY_tMFJxIuyEkHn1saBcsHQvjM.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 14 (Event Stream) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/s7iwNsI1Ak2ZN4_5iBSp3Cv7dy9ZoLBNZlrDNWplaaM.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/5q-1dq8Gg-69I863eqQotR_VGS8_6-gTL5ziVMTQPFA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 2 (DAZN CA) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/a7aToulIo2NoONpsks9zVnk9t8dl9PNzzREd9GFJpQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/yuK-ivfuDvPmxtach5xUzHvYCfUv3HW-0mp-mtN6Yg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 3 (ORF eins) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/scFFTzKvqNfJ0Xo-8LehBp59h8wCbwVtGfhc9LQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/p_IO2FRtXHVNrLq1cA-Xbzj9kuQIRL5iLs46UR0.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 4 (Sport TV4 Portugal) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Pk8eWHZHCOgm8yiaFKoS3buX3d_Qwv59JFFPJvA16Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/-EPd9y_F5VmFIrx4YdjyrFWFXDHX8Y4oi2CVQBzvwA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 5 (Polsat Sport Premium 1 Poland) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/mq6GDfhktuJBcwSK3MYmfs8F0BYSvTlDpBbEkUsebg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/WHszx4hAbpQ-shlni5DK_QmsP98a59oLuaBWr7LHZw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 6 (SONY TEN 2 HD) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/oD35oax0KWCc-iyj5CrMsrZy7JdTyFy9xMjkoCxB6w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/PXt-ssM6DJsAxvnYjNUgd9aHGFP3J-oYVlVUKdUAkg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 7 (Digi Sport 3 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/YSrUiaFxerbzm11dXDd5WRI57zbBp4ARv-8R181OIw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/JwS0aJJz22IlQxL__cMHM-78qBxwfXKbfNn-uM1wLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 8 (Prima Sport 3 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ICqREfWjwjhGVPkdSp4FzrOXdQ3udBhgHejIQf0zkA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/JZHQoJ_K3unZhyucSgCxGStfVAUKAsd9WqQaoH4PfA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Austria vs Kosovo - Server 9 (Nova Sports Start Greece) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/0N8v-Uca11qqfe5tUPWZdXAIdxu1KVOL7ZN-M-XA0Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Tjzy3Hawv2yoeL-OcROkJSpidsO05ZpbV0-Icv8xNQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 1 (Worker HLS) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/oiSyHavCPZCyd9wFfe-kfSDTIWs6dTn9ptwPeHBDHPByEJBQWdLrTH4YGpqZXH28VVPZbi9AEN8Aqgv5nliOCsZQjw6hKQO-2BBn_oO0QgUwMGt4.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/2I2AsUgwI1QVNAiDJbi7QSfJcFYOQlK_hbMBbPqV_wHea1zQjEJgPQ7W9MxrXbp549HQiUN1yUzziYdPFqI030BIZg2f8OTygObgh6ijy7l0lNPd.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 10 (Ziggo Sport 1 NL) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Xj0heI0-ls76XJ9KQJYo18coGdqOPjW-hN0W5MpICw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/BP5kA9XymIU9AvT0IO-MANVDlO3TkT95FkBAh6lbIw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 11 (Arena 2 Premium Serbia) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Fg1FQDyW3DflVb1YkbonKPkypR3e6jSx45pdHhC-ug.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/bQA3yWm2IKtOXd-jrHvAc2A7z2MYgW6fOhixmwP0ug.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 12 (Nova Sports 3 Greece) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/oSW1LB63oFinQZMPqst0kmwCOs6E258tWoSS69Fagw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/HpWR20IAdQIoERcchmyUEz32n9fJIYBRiiPSCrnV5w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 13 (V Sport Premium) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/8IT96v-NQmzEqsdpyLaWRsaD5fLesrghMBnkZhxR8w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/3TWW7xL3a3RzI3Oxe1aLp11JDYYAfM8sAGyEhB5hPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 14 (TV2 Denmark) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/G6nt4TLSpHpYysMBZAi4bePMtXYrRr7su2TULsU4Vw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/dpu-_qRYG49qVTC66_eQwFta0FJjK1w8dBWYIz47Dg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 15 (Diema Sport Bulgaria) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/6ySQB8O8cv98q5j5QNrIISM3woEMnw4AIw4D16mkSQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/319hwuByEJ5TTqqgdki1HwXSvKU5rkUzHxx2HDtX_A.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 16 (ESPN Brazil) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/t23TC3NobEkS2Jq744IsGmf3-4aAcPjvqBDCR0SD.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/XUO4l88le_-6y-BccR4u6nuGOXgzyi8EqtuJz0d9.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 17 (SuperSport Laliga) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Sp6mV6rEHf-Vkj41f3jLzpUC9fVoITz9izFPuvlxzw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ifqvesfCtbGuVeG6T9tjNG4UgyE4oAw1kYvzyLTS2g.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 18 (beIN Sports MENA 2) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5gST_OOcbyR1T_NpknsI8bkxoHmtq1vw7rYK18lA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/3ccqz9hxZIZ5Mw7AUywZ-aO8HtZVjsiKNLBL09CQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 19 (beIN Sports MENA English 1) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/NbQEkCiy1qBpKQKuvJ1YwDB4EV4c8U9QDmoUOyOg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/8hOGb2TxIAmqBoV9Q541_CzerU5uV0a2JZmlUORe.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 2 (DAZN CA) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/u6pCeMIy-buiOzWOZ8MY0J2t5Bz3PkY8DeODUJ1mlw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/BIEZD_WHS4sdrmsODolMRojSIyTgl37Ka48_JZLriQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 20 (Sportklub 3 Croatia) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/1ixuWh-M0VaergcbUxwTTittUprdYBK1fAmXLqDidQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/pmqiSQ0oxT2esEU6KBHcOxD28iJapmO2_HOaJV7wVw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 21 (Sport 3 Israel) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5BlrgZotMgvvuRm1e3fN1iHQsfp5PWvs7oAv9ULS7A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/r9Bu1Ynn2-_8pKUfw5Gpkjb0uyctcuiR1OxqJTKrJA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 3 (BBC One UK) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xGSGLMRcMbZ-xbAN5PQf5Lx0ym79CJUaFPMTOGDKBA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/_XwvtdrDxeEZwf28SZMhrQhEto2wPU5xzDyOO7Ikvw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 4 (S4C UK) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/L9Z0KjsWgdsmi-K1jXnG1fbszMTpqT5ziH1GfZko_g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/YDXkDrQiCs8a8w1YR5D_qdMWmlf9g50wD0r467QDJw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 5 (DAZN2 DE) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/9n3DMiuBndd7gq2xpBUy4Ba5kGcxfCfFJ0utL0q6Eg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/zoBlb8xiv-etCyZPljHe_c-v1LHs825HFutDL0kcXA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 6 (Sport TV2 Portugal) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/CKI0Jyn0MS6tiiP_hfnGkoljEimaMg95jbcmJpv5.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/l2q7C9bNjPfFFMOEqgsH8jQEi8Fcv-dVuFcdYTkE.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 7 (Polsat Sport 3 Poland) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/IUxLtmpKgAPTdL-by9QSrMx50lS1zRYwW0mFOmtJng.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/JQSftbTEH_I_Z-CwWFEq49mqASQgcb0-0779ibOP2g.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 8 (Digi Sport 2 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/aj7xZYFv4TqR2klVah1fpZrYaHdx_6R1p-9PwNj7og.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/GpFrWDx8IYThCaL4iIOGK2dDYi7UV5GkB_V4WZUNnQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Denmark vs Wales - Server 9 (Prima Sport 2 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/A620AgdeyXi441FIAbsb_VqHXl5puknlooUcRZd5uA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/inYBN3xay-7IM7oauFxJRVfAotJltNyhC7Sh5mB4eg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 1 (Worker HLS) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7BMCP_ELmQCzA8Q4l-5rL3PC5eeQibCXe2dxXvcGoGJmFY9PnvPMo4MN7JlTiD8qZLkZA7FDukuQgJJMiLA381mPu72738gfe8ky7iiI-FCxW4krmM9-WQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/fvz5cOYN_wFbB_S5hjGKs3Vc667v1Vh49VwX8qAwAZ9YpsHkddlNNY0nbC3C611pER7jnsOFMiWD7Os0B63sxz7HwiXgFkFY2HUsS_EVGhUvUd4XmWNSqg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 2 (DAZN CA) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/TCaz8ZsG2VwU2WD25uE_S5V0w6KFxon7PrsBR71L9A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/4JY8kWgP-ema4jmXUljkQr8cPU-AngMedrO3ITgTOw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 3 (Sport TV5 Portugal) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/G1CoV5ZR5IAdbdKl8U0KXL5_zuED3S-Liu3T6QAjqg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6Kke8b-pvpGXZ0Gc-sZntwUbdW02pgo7vfdK9nTCWw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 4 (Digi Sport 4 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/4IrAFnjR97wnyQQEPIE5B_ioy1AOhJLCDiaclfSM0w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/9GsodrOmL9C34Q8jNl5a9NwaxknQ-mila4w8ZkTZBg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 5 (Prima Sport 4 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kDAJmk0dammXHRXxIEUrPE7Vf_kRbAG5ERf2gK2kVw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/UfX6QCkkFq3hdPx072ZtdcpidKh61HVMsiqP8iPlHQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 6 (Nova Sports 4 Greece) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/FJRqIf-8Z-Q894X4qNOioDpapmDkET2RVq_jh_EL6g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/baspyamAjKtcYxheDRyA30RZv5pqQ1yoQMmraGIFSw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 7 (Nova Sport Bulgaria) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/63l2xtDGocsRikBv1WEgLGWknl7in50lPQRMYTuKaw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/mjiyJ5S9sgqM2LrvPOR6gV4byXqkcWvEtZH0unCfRA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Gibraltar vs Andorra - Server 8 (beIN Sports MENA 4) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/vohkA49Zovr0KOY5S-J8XAWtqRXAcI9G17QiSLGT.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/opV3rg5ciiefAuuLjxr1EgcyilwDZ61dKzV_Ukhz.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 1 (Worker HLS) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5P0_lTcDeWhVPu-jPFm_r1JOnanJTaKWs2cYq8roDuBdg96pAIHtSrwLfrz8FrqlJY8S5jA0mYWYRdgFBA-GqvNmC5JTaE2QBLrXjzzkp279Skos022eSYJCbw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Jow_FM0lEU-PK55oZfR5944WDmVtXdQGAlxVW1NnNWrklfOKhNGSskR_q5mE9C4sr4jAnO6JWeqG3yl6siV3RK_bpEMQVmFi4NmKr-7h4tEkerMt5BlyEgj40w.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 10 (TV2 Sport Norway) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/h5-mQtfyX2UbwuXAl7PobHGEIjlriZHdQerJsKPvBQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/MjAEXp4FH4FBKl9ULefz325dAZZ_oB-NfheDH2J2WA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 11 (Cytavision Sports 3 Cyprus) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/tKxueoRYEd0VV3KDYhjavqs8ilKdXHqVjwoNjzS2Mw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ZvhLFZRNY2m19PCYknom3Hj2de-U5gT4pkez90hxCg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 12 (SONY TEN 2 HD) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/KHjletJdUrX_GKh6CsT9Bt2A4a0iG4x257oAPdH9zQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/sl_HCaJhpHKhEzscLyY_2RC0GL4QKpiK-EaUd-HQMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 13 (ESPN3 Argentina) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/GzQcJxnzMpwatCm8SbE1ApBmibcfAI2C4EzLkvSEDg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/E1aPckTXYMPvOcHRhQ_s4mZKIkyM0RlrESVEtW_iZA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 14 (Arena 1 Premium Serbia) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/qutj925km-032aLOC7qdLE-_kH7KA6Nxfzkpe31H_A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/EM8SVm4kysXFnBCpvpmg7uTIsi2oAVCVxwy7CGmLnQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 15 (Nova Sports Prime Greece) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/dYgyMUKHjMlhT85svYj6DsZcJJriBD9W0AZLjnB2HQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/4QJ0GxthUPN8NW1i7opbzYyv0ND8H4hPGE5e7_sftw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 16 (Diema Sport 2 Bulgaria) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/V1x7t4ZL3cPLolaRpFTGeyfPBDoP3HcXMMrO3Vebiw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Fyel-qyw6dRcyn888y-Lb59dE6574EQaDa30Qmt3VQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 17 (SporTV 2 BR) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/E8Sn444_BvS5hgK5uYTh69zNNpujJP_QcqnNp0CP.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/HDwRlilFj0d2L-tbSL755KA6RrADLG_CfM_6MN-M.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 18 (SuperSport Premier League) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7EXYryfVUWU9aTR8X4khuBGd2CMT58e93gzDHfIrFg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/MP1GwbWim7fjBFH67PFxJjv3kmBt9Rs1Eq-HebvB6g.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 19 (beIN Sports MENA 2) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/S7iv97cakwyPcyYGZFTnz-ucj44_xsxo8Qd6TFli.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/S_dG4RXmVoy3p93LiC0rhGkSgtO0uutblTYwf5jZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 2 (DAZN CA) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/zT22ZkXWODaRcFEaXorWcjKGeDh4FpbbW_phdfOtbQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/oLwBXpb0Fpd2JAZcekXS5wyUaBeQVlM42XSdCKq-Zg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 20 (Sportklub 1 Croatia) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/l4-S2xBJLjt8vazqs9QT4c0i5C7KQXAaV_2nH8tl3g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/m_oTZgHXKwqilPl4hmsrfncEOi2vOUzWyjjcmnsYrw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 21 (Sport 1 Israel) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xtQ6R0xaFre4P8K3htsk1V0u19LNN-fm4Wur_H_MwA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Bl5EGYHNVXgs6uiGCtrtp9p4AiEdMhuM0s337Lj3Eg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 3 (Fox Sports 2 USA) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/lAdtzkNJw3Sh36gE3lb4BLkuYXsWli-IfO1mqL7rqQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/68K6btt-eW_OKVBDa7td2iq7-sTTaeulIVMU1uKDdg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 4 (DAZN1 DE) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/FzAVdMZZiRaN2HnQz2gZBBGkduiGIv3L_NZRzjiQ5w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/iwMzgEr5-ePZOWKHAz5sdi77u-ZmyMbGD4x2KTcDoQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 5 (Sport TV1 Portugal) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/wnJOP1Q3-m6kEI8bhAXE2uNzDI5M0cL_8FL45NCy.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/1y6McDmwVo9kA-KE5V20fskT4jMgx7f_zuLP6arf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 6 (Sky Sport Calcio IT) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Vc6Covisex5NEKxme96Y8JcHM2RfPMwcXg6EIy-pYA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/VWJtQSHteH-cC_GeXHIwqmQgZLkE-_YY10EHBgF_Pw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 7 (CBC Sport Azerbaijan) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ylGNPUlQQj8BXlGuoZ-hdVqfikIuGJAQvXnt6Cg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/4WIF7m0l7_IPrejqmmiSJpafn8mkbRqSCGxc0pU.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 8 (Prima Sport 1 Romania) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/utiYdS4DBiKoxB349fbH56gZeNFvkiUApMjrVuFzDw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/pqGH9lh5f2l1yAG1d6MIc9k7bsrPS5SOGNp7ssbjVw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Lithuania vs Azerbaijan - Server 9 (Ziggo Sport 1 NL) • 20:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/hX5DoNVAULtt1zw2Yg_3ktSMyaVp2RLU1xA7bQ_rgA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6warfbjgH0AZbAWy82ugIN4rf4D8NYdFTjXNKo1RpA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 1 (Worker HLS) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/No6U7YJJ4isFgiFg1gOuBUFQj-yHyzOR2vkKH0195tL0WDFxBs_XX1EwaoC5DXCvaZu5yltyrDf9YKR2293L5vAPfReMra6ZpIojfA2q9ZoJFi-mck68plY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ccbOcV0pYfCQSF3tAzS5ZsTiEO3DkBFQzoy3dNsQti_7n0nR6J5pnmouDZc9aWfzWCtpKhgrleLT524KhEnk4MViTnZ5lz5zHP27OOhslZGb-cbvO_zUfc4.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 10 (Cytavision Sports 4 Cyprus) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/AYvDSHS8tq7gG6CCiacgL2fN8IhoZWaB4Q-wFF7OxQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Ctz2ck3YPWvnaj2hrqECP1oj7bsqPDoInSTdMb7jtg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 11 (CBC Sport Azerbaijan) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/9ZpE-vvZbjftyTG-XNGLIorSSHDxsrY15ipXHSg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/wMgSJY9Ed7LBbEwgmSytBrq-GythDXncV6dLgPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 12 (RTS 1 Serbia) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Ni5au-NeAFxFYCdEb3QQhxR3xPNh1g4lOmiYaYY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/sh78SVeGhABlaerH1TZAy2bZYtuqLmx4lUDEnc4.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 13 (ESPN Argentina) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/SD77sylAz23-UF58mxaCC4FX-WpD_vo_FO6Y3bQxfg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/UhJjKC6uugWfLJSRVNebWoX4cOpFdkUfz2VKjg0hFw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 14 (Arena 1 Premium Serbia) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/2ko6fNGzINXWrVL0on7Q3n5PMmMGWzm3hLDpZvZp5w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/EOrBYs_-58-wkoQot6EUVx4PYiFMdzdhhsnkLtHmRw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 15 (Digi Sport 1 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xUbCZgeH06PsGnOZH_bjhG2fdaHNsSDxsfVEWbwv7w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/5HK4aqEZS_GUXXs8XyZkM2K2UsyvRQpSFVDlAhx1cw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 16 (Prima Sport 1 Romania) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/uDYFrvP65s7DKsdhvfxeSEVtTHr49X-fJHzJfCSrbQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/NNSftecpE_cg9vH-NXscQVnrxQ5mr-87yRhJNY6HAQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 17 (Nova Sports 2 Greece) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/no-ZcmbThleiGgJZQn2rPt-bXuMvDdOUFFPK70p-kQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/zFlD-Jw-VaSZt6A6gwkbt5I8WLes2CsI22lz4d-BZQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 18 (TV2 Sport X Denmark) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/bic-1i0J688CRiX3VFWA2WH-60guUWj-_HQi9R_q9g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/m7VwmwegUjgpEMDV1F_DsIjHCNMNkF_MPg-eEamL2Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 19 (Diema Sport 3 Bulgaria) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/lRHVCwuok7VD50Vn0qY8ds7W1qHmWx-Y4EZQP0CYNQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/RL6YDQ-_g4fJXo91A-XePjz6k0cMw4Y3bs-zMeCmzA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 2 (DAZN CA) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/cXMyx-YziA-WtU8m9Ux8Ecg2C42rUR5VrdpQprUC-w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Kc3_5R17-94hZ0OIfy_tRvfOIuIUcZb3gf7TbSg7Uw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 20 (SporTV 2 BR) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Kw_M918ogdweJqO_qRX6AohXBfSC0GvhbfQvau4q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Cjk1mPnbka9LA-qTwrUncQLmKv3lVQxkiN7beIBg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 21 (SuperSport Premier League) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/IGARquCzUurryOr-1UJJEvtFbQPeEPm7yc3uO3xR8A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/0m8YNy4rt3xi5v1cpvmeWz1FTELNypX46sVtU6_OQw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 3 (Fox Sports 2 USA) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/gkFF2wL8IXHqRbf61uJrsiMaPZPAUj2p0wYi4vK8DQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/KtKaibEd1MXoXXvEHchYv8KtI9n-YyqlOL_aKdw5eA.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 4 (NPO 1 NL) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/LVoJo3itYEcQVNGTvzHI9lx6Bm2_SyQavnb0X00.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/-8Z5lV04SwKKRFtllDeQlIb9RW7-mffioljqzfM.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 5 (DAZN1 DE) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/OJ4L_rKw_rTnaSyhjalY5AXz_hp9t2XTkGCaml1orQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/cgsBjcdjm_jbJa6zLQ7W1QIMv8i-3eNqJS67ZeSjtw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 6 (Sport TV3 Portugal) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/klLvHjimCbYR6_3TxQ2nF9y_UCLTcmTPK1kYbnFUkw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/5AGx6NLS89IdXvN8_JLLZTJ84nVBt5k1Jt-kgaL6bw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 7 (Polsat Sport 1 Poland) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Pf4qY7n6NyfDBGEMQ8magWUNmLCt7wBaMjlIGdmr.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/b8SrxFOip6rpEEMOGNoVWSL2kZMhieVrP7S8KW5b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 8 (Sky Sport Uno IT) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xzzUo5J-cVMHqottNTSJ_9ejV0PAWxabsJcIlcxl8Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/wFCn8X2kzXfkmkAsTW15UBQ3tDZCn38wj_tOMrZuMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [Football] Serbia vs Netherlands - Server 9 (TV2 Sport Norway) • 23:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ihNAgL7ZzHMgVGFijpuyyHi9LxEtJ_O21WDaJYff9w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/0J0fLp6mZR3SzUnpUbKcpoYrqWQdB1XsJmzlSLqitQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Carolina Panthers at Cleveland Browns - Server 1 (Worker HLS) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7kRQn5DQnc8JXJoyKYkdVu2MwNQq-ZQkq8vuzTFjttmgPVxln3Gbmli24gzTnqosykk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/dEckrCRsOqjN3N9v_57pNN_9OxX24jXTpXMKs8b7oTDIqAMsx9YFcKoIuLvLHhGn2oc.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Carolina Panthers at Cleveland Browns - Server 2 (NFL Sunday Ticket) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/e9LYm5mBFP7fP5zxVotIIkfm8wYnCPS_KLwBRCd8.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rbYxc7hl8P9FtZvVcfTgP_DK1YKjeUjsHGx1rV7m.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Carolina Panthers at Cleveland Browns - Server 3 (Event Stream) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kHuk-N9v3cbkD0U9BE4AOtw7HtguIX4QVj25KVB2hmQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/TLwhYhUxIj3LVc4OgWOhqJzkKyx05Lo5jl_RDkXK3Q8.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 1 (Worker HLS) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/BnlDTeEeHphxltD2hPVzSwp0bWxn39_ZJGlwq179TULxbkefx9DJhJ8ZFq4s6AtwzkE.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/4zjFpktu8M2BQj0XVqIdeym6jVem2cJ2wApsqGM3g0nwavCJIQOT8-Yxy-xIR7jDhTQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 2 (NFL Sunday Ticket) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/rR6le8JSLeMNP0LJ2VnmhtExxDqkLMjg_VXCpLHx.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/knCKxKWwDTU64ddvL5XZohk09VbZ1Myf7K5CECny.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 3 (RDS 2 CA) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/JA76jtWahuqsT1UE00w1Fz-iKOfo9hnR1eErkeY-bA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/EwYy7sHEsxb6xTJSBf9JHRfnKAOWQKkPgIzsg72meQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 4 (Sky Sports Main Event UK) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/MqVwz9bO73aISs5TA97V0P4nxkYC0YWEUyev8-bq.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rMdMWvLHal8HlKSyuf7AmEccmh5l7v0EHGjeSvBG.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 5 (ESPN2 Brazil) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/XqHYmSKZNxWejKAF6835c0CpC-VfgjVJuQesGMxP.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/_f1lAEQsMEczik4QRY37Pw9Ian40cskVlChTsG87.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 6 (Sport 5 Live Israel) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/IPF5ZULDkn_YQUaMQvxqgvuzFj5u3M2mTSrrhrVzzg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ac79SuEhXl1pUMRwco1MeFSJ0jnrpIPelrHbm9LWSQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 7 (Event Stream) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/f3AmBzy2YJ7lpB0-W_irvFAQ0Gc5hPEafJwiAdDcZQE.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/mGfkqWpyhE2ACYpRbrng6y-YpPozPYKe3UMAQ-BJLnM.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] Los Angeles Chargers at Buffalo Bills - Server 8 (Event Stream) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/QBMe3IMXHoJ7cDktTAeFNCOqyfRld_sMHsitBPXkkNs.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ipbnbmU9JqcM-t2BbfIYvrYPQBRjlo_ycRydpSq2VaA.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] New York Jets at Detroit Lions - Server 1 (Worker HLS) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/oOnSR9DeIYtxxUQMGlhYjoux1iURfXQLyuNLSqVr2eZBZDzWtb2eArUgabpPSCxAPJs.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/n855c8hWxDPnUSYn8JXnJ8Ri9kZNTbSRIb3Jer-McX1z9MwcD1_vxnE80PTcj9UZmVc.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] New York Jets at Detroit Lions - Server 2 (NFL Sunday Ticket) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Q74NR1nNp8jHXrCUNu3hfwaaGPdNAUAJ7KZ1uC8D.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/CkHq-hO0i-2gzNqT_dDpL3RyI5gVTBc8QG1o011X.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] New York Jets at Detroit Lions - Server 3 (FOX USA) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/6xHIhuIoEwfgN4ZIYtigSyUs2z8evel94rKkG-t4.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rLclI8YPpL7TsBigV_oJWMh4YgU-JAVc5D_YY2ol.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] New York Jets at Detroit Lions - Server 4 (FOXNY USA) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/hHrSqh_WVW7I55JUqADu3xty8tzPd9BNL2JC68Z43w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/m9btcUfzjd_VAirxhChvZT-vmDk2-CuT83K_p6imLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png" group-title="Xr3dtv - Telegram @viziago", [UPCOMING] [NFL] New York Jets at Detroit Lions - Server 5 (Event Stream) • 00:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/NIR1DixtOIICgraimczfoy_zvJnjLicuIShw9d1ocd4.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/tCAlf4QC8f6sN6X43j8dOoMMRIiHpqPNe6KAidmZ3kI.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Xr3dtv - Telegram @viziago", beIN Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
@@ -39135,7 +39131,7 @@ https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/720.png" group-title="Xr3edtv Live Event - Telegram @viziago", [Segunda División] Valladolid vs Cordoba • 18:30 WIB [Server 1]
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/coffee.png" group-title="Xr3edtv Live Event - Telegram @viziago", ☕ Traktir Kopi: lynk.id/xr3ed
 https://lynk.id/xr3ed
