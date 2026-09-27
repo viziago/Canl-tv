@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/viziago/Canl-tv/main/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/viziago/Canl-tv/main/epg.xml"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mh542f/MG-20260830-123943-834.jpg" group-title="📢 Duyuru / İletişim - Telegram @viziago", 💌 ViziaGo Resmi Duyuru Kanalı
 https://t.me/Viziago
 
